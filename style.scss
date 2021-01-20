@@ -1,0 +1,79 @@
+---
+---
+
+//
+// IMPORTS
+//
+
+@import "variables";
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: blue;
+}
+
+.b {
+  border: 0px solid #ddd;
+}
+
+.container {
+  max-width: 800px;
+}
+
+header {
+  padding: 1em;
+
+  div.site-info {
+    div.site-name {
+      font-size: 2em;
+    }
+
+    p.site-description {}
+  }
+
+  nav {
+    a {
+      margin-right: 1em;
+    }
+  }
+}
+
+main {
+  padding: 1em;
+
+  article.post {
+    margin-bottom: 2em;
+
+    .post-title {
+      font-size: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    div.entry {
+
+    }
+
+    div.date {
+      padding-bottom: 1em;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .comments {
+      margin-top: 5em;
+    }
+  }
+
+}
+
+footer {
+  margin: 1em;
+}
+
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";
+@import "svg-icons";
