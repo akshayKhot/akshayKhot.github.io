@@ -16,6 +16,7 @@ Uber spent close to a billion dollars to try to build their own driverless cars.
 They [abandoned](https://www.wired.com/story/uber-gives-up-self-driving-dream/) their project last month, giving its entire driverless division to Aurora. <sup>[2]</sup>
 
 Source:
-[1] [Rolling out driverless cars is ‘extraordinary grind’, says Waymo boss](https://www.ft.com/content/6b1b11ea-b50b-4dd5-802d-475c9731e89a), Financial Times
-[2] [Uber Gives Up on the Self-Driving Dream](https://www.wired.com/story/uber-gives-up-self-driving-dream/), Wired.com
+
+1. [Rolling out driverless cars is ‘extraordinary grind’, says Waymo boss](https://www.ft.com/content/6b1b11ea-b50b-4dd5-802d-475c9731e89a), Financial Times
+2.  [Uber Gives Up on the Self-Driving Dream](https://www.wired.com/story/uber-gives-up-self-driving-dream/), Wired.com
 
