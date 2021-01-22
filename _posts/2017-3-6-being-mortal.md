@@ -8,7 +8,9 @@ title: Being Mortal
 
 While medical science has given us the ability to extend life, it does not ask – or answer – the question of if that extended life still has meaning. I read this book last year, but never got around to summarizing my notes. It is written by Dr. Atul Gawande, the author of “The Checklist Manifesto”. In this book, Dr. Gawande calls for change in the way medical professionals deal with illness and final stages of a patient’s life.
 
-![being_mortal](../images/being_mortal.jpg)
+<div class="centered">
+  <img src="../images/being_mortal.jpg">
+</div>
 
 **The Central Argument
 **Modern medicine has provided tremendous benefits, transforming birth, injury and infectious diseases from painful death to manageable treatment. However, in the big scheme of things, the goals of modern medicine run exactly opposite to the well-being of a human. The incentives of modern medicine is to prolong death, no matter at what cost. Often this extension comes at the expense of the quality of life of a patient.
