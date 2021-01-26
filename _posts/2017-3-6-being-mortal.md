@@ -12,8 +12,9 @@ While medical science has given us the ability to extend life, it does not ask â
   <img src="../images/being_mortal.jpg">
 </div>
 
-**The Central Argument
-**Modern medicine has provided tremendous benefits, transforming birth, injury and infectious diseases from painful death to manageable treatment. However, in the big scheme of things, the goals of modern medicine run exactly opposite to the well-being of a human. The incentives of modern medicine is to prolong death, no matter at what cost. Often this extension comes at the expense of the quality of life of a patient.
+**The Central Argument**
+
+Modern medicine has provided tremendous benefits, transforming birth, injury and infectious diseases from painful death to manageable treatment. However, in the big scheme of things, the goals of modern medicine run exactly opposite to the well-being of a human. The incentives of modern medicine is to prolong death, no matter at what cost. Often this extension comes at the expense of the quality of life of a patient.
 
 **A better incentive**
 

@@ -23,7 +23,6 @@ a:hover {
 
 .container {
   max-width: 700px;
-  font-size: 1.1em;
 }
 
 header {
@@ -32,7 +31,7 @@ header {
 
   div.site-info {
     div.site-name {
-      font-size: 2.5em;
+      font-size: 2.7em;
     }
 
     p.site-description {}
@@ -41,6 +40,7 @@ header {
   nav {
     a {
       margin-right: 1em;
+      color: blue;
     }
   }
 }
@@ -93,6 +93,20 @@ main {
 
 footer {
   margin: 1em;
+  text-align: center;
+  .svg-icon {
+    margin-right: 5px;
+  }
+}
+
+.pagination {
+  .page {
+    // border: 1px solid #ddd;
+    padding: 1em;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 7px;
+  }
 }
 
 
