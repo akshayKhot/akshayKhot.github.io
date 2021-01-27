@@ -7,6 +7,10 @@
 
 @import "variables";
 
+.centered {
+  text-align: center;
+}
+
 a {
   color: #000;
   text-decoration: none;
@@ -53,6 +57,9 @@ header {
 
 main {
   padding: 1em;
+  a {
+    color: $link-color;
+  }
 
   article.post {
     margin-bottom: 2em;
@@ -60,20 +67,15 @@ main {
     .post-title {
       font-size: 1.5em;
       font-weight: 400;
+      a {
+        color: #000;
+      }
     }
 
     div.entry {
 
-      a {
-        color: $link-color;
-      }
-
       p {
         margin: 1em 0;
-      }
-
-      .centered {
-        text-align: center;
       }
 
       blockquote {
@@ -116,6 +118,14 @@ footer {
   }
 }
 
+div.about-img {
+  padding-bottom: 1em;
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+  }
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
