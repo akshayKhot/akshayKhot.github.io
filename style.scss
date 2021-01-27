@@ -121,9 +121,12 @@ footer {
 div.about-img {
   padding-bottom: 1em;
   img {
-    width: 100px;
-    height: 100px;
+    max-width:175px;
+    max-height:175px;
+    width: auto;
+    height: auto;
     border-radius: 100%;
+    border: 1px solid #def;
   }
 }
 
