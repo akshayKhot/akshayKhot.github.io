@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: $link-color;
   text-decoration: underline;
 }
 
@@ -22,7 +22,10 @@ a:hover {
 }
 
 .container {
-  max-width: 700px;
+  max-width: 37em;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
 }
 
 header {
@@ -31,7 +34,8 @@ header {
 
   div.site-info {
     div.site-name {
-      font-size: 2.7em;
+      font-size: 2.5em;
+      font-weight: bold;
     }
 
     p.site-description {}
@@ -40,7 +44,7 @@ header {
   nav {
     a {
       margin-right: 1em;
-      color: blue;
+      color: $link-color;
     }
   }
 }
@@ -52,13 +56,14 @@ main {
     margin-bottom: 2em;
 
     .post-title {
-      font-size: 1.7em;
+      font-size: 1.5em;
+      font-weight: 400;
     }
 
     div.entry {
 
       a {
-        color: blue;
+        color: $link-color;
       }
 
       p {
