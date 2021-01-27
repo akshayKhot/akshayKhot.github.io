@@ -4,20 +4,20 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post b">
+  <article class="post b">
 
-      <div class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+    <div class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
 
-      <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }}
-      </div>
+    <div class="date">
+      Written on {{ post.date | date: "%B %e, %Y" }}
+    </div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </article>
   {% endfor %}
 </div>
 
@@ -25,15 +25,17 @@ layout: default
 <div class="pagination row">
 
   <div class="col-md-3">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">
+      <div class="previous page">
+        Previous
+      </div>
+    </a>
+    {% else %}
     <div class="previous page">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}">
-          Previous
-        </a>
-      {% else %}
-        <span>Previous</span>
-      {% endif %}
+      <span>Previous</span>
     </div>
+    {% endif %}
   </div>
 
 
@@ -45,13 +47,17 @@ layout: default
 
 
   <div class="col-md-3">
-    <div class="next page">
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">Next</a>
+    <a href="{{ paginator.next_page_path }}">
+      <div class="next page">
+        Next
+      </div>
+    </a>
     {% else %}
+    <div class="next page">
       <span>Next</span>
-    {% endif %}
     </div>
+    {% endif %}
   </div>
 
 </div>
