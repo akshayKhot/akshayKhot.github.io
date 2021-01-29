@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SEO Guidelines from Google
+title: Google's SEO Guidelines
 ---
 
-Search Engine Optimization is about helping search engines understand and present content. This is a complete overview of the basics of SEO according to [Google's best practices](https://developers.google.com/search/docs/beginner/seo-starter-guide). If you have a blog or a website, this guide is meant for you.
+Search Engine Optimization is about helping Google understand and present your website so it's shows up prominently in the search results. This is an overview of the basics of SEO according to [Google](https://developers.google.com/search/docs/beginner/seo-starter-guide). 
 
 You should build a website to benefit your users, and any optimization should be geared toward making the user experience better. One of those users is a search engine, which helps other users discover your content. 
 
