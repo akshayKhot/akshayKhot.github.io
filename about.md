@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 ---
 
-<div class="about-img centered">
+<div class="about centered">
 <a href="/images/AK.jpeg">
 <img src="/images/AK.jpeg">
 </a>
@@ -15,9 +15,9 @@ Currently I'm working as a software developer at CityView, a municipal software 
 
 Before CityView, I did my Master's in Computer Scince from the University of Victoria, where I designed & implemented a scalable algorithm to find the most influential users in a network. A short paper based on my thesis was published in EDBT Vienna 2018 (Microsoft Research). You can find a copy of my thesis [here](https://dspace.library.uvic.ca//handle/1828/8885). 
 
-<div class="about-img centered">
+<div class="about centered">
 <a href="/images/Pratiksha.jpeg">
-<img src="/images/Pratiksha.jpeg">
+    <img src="/images/Pratiksha.jpeg">
 </a>
 </div>
 

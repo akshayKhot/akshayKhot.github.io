@@ -5,6 +5,10 @@ title: Six Easy Pieces
 
 A really good introductory book to big ideas in Physics, by Richard Feynman. It is very approachable, and can be read by a high-school student as well as someone doing a PhD. He explains some really advanced concepts by relating them to everyday objects and events in life. The book literally changes the way you look at the world.
 
+<div class="book centered">
+  <img src="../images/six_easy_pieces.jpeg">
+</div>
+
 **Atoms in Motion**
 
 In this chapter, Feynman describes the atomic theory. Some examples: What happens when you boil water, how does it evaporate. How the size of the atoms relate to regular objects, how the heat is transferred from coffee to cup to floor by jiggling of atoms, etc. It’s very interesting, and can change how you look at everyday objects.

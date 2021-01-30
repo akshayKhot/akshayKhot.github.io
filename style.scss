@@ -118,7 +118,7 @@ footer {
   }
 }
 
-div.about-img {
+div.about {
   padding-bottom: 1em;
   img {
     max-width:175px;
@@ -127,6 +127,22 @@ div.about-img {
     height: auto;
     border-radius: 100%;
     border: 1px solid #def;
+  }
+}
+
+div.book {
+    img {
+      max-width:200px;
+      max-height:200px;
+  }
+}
+
+div.random {
+
+  img {
+      max-width:100%;
+      max-height:100%;
+      border-radius: 5px;
   }
 }
 

@@ -5,11 +5,16 @@ title: Pratiksha's Drawings
 
 Pratiksha drew a pair of paintings in the evening. Here they are. 
 
-<div class="centered">
-  <img src="../images/radhekrishna.jpg">
+<div class="random centered">
+	<a href="../images/radhekrishna.jpeg">
+  	<img src="../images/radhekrishna.jpeg">
+  </a>
 </div>
 
+<br>
 
-<div class="centered">
-  <img src="../images/tree.jpg">
+<div class="random centered">
+	<a href="../images/tree.jpeg">
+  	<img src="../images/tree.jpeg">
+  </a>
 </div>
