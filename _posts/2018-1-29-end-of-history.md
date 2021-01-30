@@ -1,6 +1,7 @@
 ---
 layout: post
 title: End of History
+tags: thoughts
 ---
 
 History, it seems, is always ending today. It’s easy to imagine how much I have changed over the years. At 27 today, I have almost nothing in common with the 22-year old Akshay. Looking into the future, however, is quite a different story altogether.

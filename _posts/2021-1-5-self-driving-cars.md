@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Self-Driving Cars
+tags: news
 ---
 
 Gone is the optimism of just a couple of years ago. All that remains is the delusion of grandeur. 

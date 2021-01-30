@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remembering Gerald Weinberg
+tags: news
 ---
 
 Rest In Peace, Jerry. 

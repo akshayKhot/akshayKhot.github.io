@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+tags: personal
 ---
 
 After two weeks, I have left my job at Neeble Technologies. I feel exhilarated. The last four years of my life were dedicated to the single-minded goal of becoming a software engineer, get a high-paying job at an MNC, and live happily ever after. I don’t know what I am going to do next. 

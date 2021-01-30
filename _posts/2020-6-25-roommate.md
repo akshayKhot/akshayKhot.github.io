@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking for a Roommate
+tags: news
 ---
 
 I am looking for a roommate to share my one bedroom apartment on Quadra-Mckenzie. It's a semi-private room, most suitable for students who are looking for temporary stay.

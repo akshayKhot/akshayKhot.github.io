@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Managing Complexity
+tags: code software
 ---
 
 <small>*This article was originally published on [Write Software, Well](https://writesoftwarewell.com/posts/1)*.</small>

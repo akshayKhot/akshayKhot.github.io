@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stoic Programming
+tags: thoughts
 ---
 
 I have been studying Stoicism for more than 2 years now. The more I read Seneca, Marcus Aurelius and Epictetus, the more I realize how Stoic principles can be valuable when applied to programming. This post is a quick reminder to myself when I am writing software.

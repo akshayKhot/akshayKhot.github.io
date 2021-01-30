@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pratiksha's Drawings
+tags: personal
 ---
 
 Pratiksha drew a pair of paintings in the evening. Here they are. 

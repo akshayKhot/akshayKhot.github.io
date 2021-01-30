@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functions as Objects
+tags: code
 ---
 
 In JavaScript, functions are objects. We can not only call them, but pass them to other functions and also receive them from other functions. 

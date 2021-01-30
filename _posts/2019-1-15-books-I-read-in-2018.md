@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Books I Read in 2018
+tags: books
 ---
 
 As a bibliophile, 2018 was a great year. I read 70 books and skimmed through many more, averaging at least five books per month. Here is a list of all the books I read last year.

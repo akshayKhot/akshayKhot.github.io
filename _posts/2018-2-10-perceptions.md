@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Perceptions
+tags: thoughts
 ---
 
 > "It’s not the external events that cause us trouble, but only our perceptions about those events." 

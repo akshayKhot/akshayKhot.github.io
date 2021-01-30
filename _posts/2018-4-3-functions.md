@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Functions
+tags: code
 ---
 
 Since getting exposed to functional programming, I have started seeing functions everywhere.
