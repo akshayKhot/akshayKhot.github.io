@@ -33,8 +33,9 @@ a:hover {
 }
 
 header {
-  padding: 0.5em 1em;
-  background-color: aliceblue;
+  padding: 1em;
+  border-bottom: 1px solid #eee !important;
+  // background-color: aliceblue;
 
   div.site-info {
     div.site-name {
