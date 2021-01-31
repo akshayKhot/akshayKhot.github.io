@@ -5,6 +5,8 @@ title: Things I Learned from Derek Sivers
 
 [Derek Sivers](https://sive.rs/) has been writing his [articles](https://sive.rs/blog) for the past twenty years. Here is a distilled summary of all the ones that resonated with me. 
 
+---
+
 **How to write?**
 
 - Write all your thoughts. Argue against them.
