@@ -2,7 +2,14 @@
 <html lang="en">
 
 <head>
-  <!-- <title>{% if page.title %}{{ page.title }} – {% endif %}AK</title> -->
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} – 
+    {% endif %}
+    Akshay's Weblog
+  </title>
+  
   {% if jekyll.environment == 'production' %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-V2PQMMZXYP"></script>
@@ -16,7 +23,6 @@
 
       gtag('config', 'G-V2PQMMZXYP');
     </script>
-  {% else %}
   {% endif %}
 
   {% include meta.html %}
