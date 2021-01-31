@@ -2,19 +2,22 @@
 <html lang="en">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V2PQMMZXYP"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+  <!-- <title>{% if page.title %}{{ page.title }} – {% endif %}AK</title> -->
+  {% if jekyll.environment == 'production' %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V2PQMMZXYP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
 
-    gtag('config', 'G-V2PQMMZXYP');
-  </script>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}AK</title>
+      gtag('config', 'G-V2PQMMZXYP');
+    </script>
+  {% else %}
+  {% endif %}
 
   {% include meta.html %}
   <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" />
@@ -34,7 +37,7 @@
 
       <div class="site-info">
         <div class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></div>
-        <p class="site-description">{{ site.description }}</p>
+        <!-- <p class="site-description">{{ site.description }}</p> -->
       </div>
 
       <nav class="">
