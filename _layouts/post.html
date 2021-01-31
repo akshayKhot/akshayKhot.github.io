@@ -6,7 +6,10 @@ layout: default
   <div class="post-title">{{ page.title }}</div>
 
   <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
+    {{ page.date | date: "%B %e, %Y" }} in 
+    {% for tag in page.tags %}
+      <strong><a href="/tags/#{{ tag }}">{{ tag }}</a></strong>
+    {% endfor %}
   </div>
 
   <div class="entry">
