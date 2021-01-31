@@ -9,8 +9,9 @@ I usually don’t read satire, but so far the best one has been “The Age of Ab
 The book covers a broad range of topics from philosophy, spirituality, literature, psychology, and neuroscience for common ideas on fulfilment and happiness. It then investigates how easy or difficult it might be to apply such strategies in contemporary life, amplified by a culture of high expectations, conspicuous consumption, shallow partnerships and perpetual youth.
 
 <div class="book centered">
-  <img src="../images/age_of_absurdity.jpeg">
+  <img src="../images/books/age_of_absurdity.jpeg">
 </div>
+
 
 **Entitlement and Potential**
 
