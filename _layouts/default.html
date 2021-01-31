@@ -3,12 +3,7 @@
 
 <head>
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} – 
-    {% endif %}
-    Akshay's Weblog
-  </title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}Akshay's Weblog</title>
   
   {% if jekyll.environment == 'production' %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
