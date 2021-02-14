@@ -13,7 +13,7 @@ My name is Akshay, and I am a software developer based in Victoria, British Colu
 
 Currently I'm working as a software developer at CityView, a municipal software company, and one of the best companies in Victoria. We build web/mobile/desktop applications for our customers, who are the municipalities and townships all over Canada and USA. I have been at CityView for three years and it's been a fantastic journey so far. 
 
-Before CityView, I did my Master's in Computer Scince from the University of Victoria, where I designed & implemented a scalable algorithm to find the most influential users in a network. A short paper based on my thesis was published in EDBT Vienna 2018 (Microsoft Research). You can find a copy of my thesis [here](https://dspace.library.uvic.ca//handle/1828/8885). 
+Before CityView, I did my Master's in Computer Science from the University of Victoria, where I designed & implemented a scalable algorithm to find the most influential users in a network. A short paper based on my thesis was published in EDBT Vienna 2018 (Microsoft Research). You can find a copy of my thesis [here](https://dspace.library.uvic.ca//handle/1828/8885). 
 
 <div class="about centered">
 <a href="/images/Pratiksha.jpeg">
