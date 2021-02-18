@@ -37,6 +37,7 @@ hr {
 }
 
 header {
+  text-align: center;
   padding: 1em;
   border-bottom: 1px solid #eee !important;
   // background-color: aliceblue;
@@ -182,8 +183,20 @@ footer {
   }
 }
 
-section {
+section.tags {
   margin: 1em;
+}
+
+section.archive {
+  margin: 1em;
+}
+
+section.books {
+  p.summary {
+    background-color: lightyellow;
+    padding: 0.5em;
+    font-size: 0.8em;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

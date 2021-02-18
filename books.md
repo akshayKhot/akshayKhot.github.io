@@ -1,13 +1,18 @@
 ---
 layout: page
+title: Books I've Read
 permalink: /books/
 ---
 
-<div class="gallery">
+<section class="books">
+
+<p class="summary">
+  This is a collection of books I have read or am reading right now. It's not my summary or an opinion piece, but a list of passages and highlights from the book that resonated. 
+</p>
 
 {% for post in site.categories["books"] %}
     
-<article class="post b">
+  <article class="post b">
 
     <div class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
 
@@ -26,9 +31,9 @@ permalink: /books/
     </div>
 
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
   </article>
   
 {% endfor %}
 
-
-</div>
+</section>
