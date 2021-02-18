@@ -135,11 +135,12 @@ div.about {
 }
 
 div.book {
-    img {
+  margin: 2em 0;
+  
+  img {
       max-width:200px;
       max-height:200px;
   }
-  margin: 2em 0;
 }
 
 div.random {

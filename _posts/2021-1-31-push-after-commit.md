@@ -10,7 +10,7 @@ Open the settings (cmd + comma), and type 'Post commit'. You will see the **Git:
 
 <div class="random centered">
   <a href="../images/random/post_commit.jpg">
-	  <img src="../images/random/post_commit.jpg">
+	  <img src="../images/random/post_commit.jpg" alt="Post Commit Hook">
   </a>
 </div>
 

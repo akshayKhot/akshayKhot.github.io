@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Books I Read in 2019
-tags: books
+category: books
 ---
 
 Though I didn't read as many books as last year, I read them with more focus and understanding. Here are all the books I read in 2019. 

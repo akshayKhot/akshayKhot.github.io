@@ -4,9 +4,9 @@ permalink: /about/
 ---
 
 <div class="about centered">
-<a href="/images/AK.jpeg">
-<img src="/images/AK.jpeg">
-</a>
+    <a href="/images/AK.jpeg">
+    <img src="/images/AK.jpeg">
+    </a>
 </div>
 
 My name is Akshay, and I am a software developer based in Victoria, British Columbia. I've been programming for the past decade, and I strive to write software that solves real problems.

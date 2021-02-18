@@ -1,15 +1,19 @@
 ---
 layout: post
 title: The Google Resume
-tags: books
+category: books
+excerpt_separator: <!--more-->
 ---
+
+<div class="book centered">
+  <a href="../images/books/google_resume.jpg">
+    <img src="../images/books/google_resume.jpg" alt="The Google Resume">
+  </a>
+</div>
 
 While preparing for the Microsoft and CityView interviews, I did a lot of meta reading on interviews and resume building. I came across a few really good resources such as [The Google Resume](https://www.amazon.ca/Google-Resume-Prepare-Microsoft-Company/dp/B071VGVN3L/ref=sr_1_4?dchild=1&qid=1590869767&refinements=p_27%3AGayle+Laakmann+McDowell&s=books&sr=1-4&text=Gayle+Laakmann+McDowell) from Gayle Laakmann McDowell. I also read a bunch of blog posts which I have grouped in this same post.
 
-<div class="book centered">
-  <img src="../images/books/google_resume.jpg">
-</div>
-
+<!--more-->
 
 This doesn't cover everything, but I think it covers the most important foundational elements. Also, this is not a summary and/or my thoughts on the interviews, but a collection of my notes and highlights from the books and blogs that resonated with me, so if the tone of the text sounds different, that's probably why. Here we go..
 
@@ -58,10 +62,6 @@ This is where you get to be honest with yourself. That long list of things you d
 
 - Writing code - (I put this here half as a joke. I can't tell you how many people with 15+ years of experience lose their mind when I ask them tow write some code with me. These "architects" do not end up getting jobs. Same goes for managers and other support positions. I know that you're not going to write production code, that's fine - you should be able to write some code, though.)
 - Bits and Bytes - Yes, you should understand how all that bitshifting stuff works in whatever language you're going to interview with. You should know what big and little endian are. Do a couple practice questions, even simple one. Try something like..."write a method to determine if the bit-wise representation of an integer is a palindrome."
-- <div class="centered">
-    <img src="../images/Age of Absurdity.jpeg">
-  </div>
-
 - Databases. Learn some basic SQL and data modeling if the job you're applying for uses databases.
 - Learn a bit about testing. Write some code and test it. What's TDD
 - If you've only ever used Windows....consider using linux for a bit.

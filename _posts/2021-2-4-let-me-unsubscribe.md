@@ -7,7 +7,7 @@ Don't you just love when your entire sign-up workflow is done in minutes, and yo
 
 <div class="random centered">
   <a target="_blank" href="../images/random/tangerine.png">
-    <img src="../images/random/tangerine.png">
+    <img src="../images/random/tangerine.png" alt="Tangerine">
   </a>
 </div>
 
