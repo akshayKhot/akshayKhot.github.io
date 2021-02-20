@@ -6,9 +6,9 @@ permalink: /books/
 
 <section class="books">
 
-<p class="summary">
-  This is a collection of books I have read or am reading right now. It's not my summary or an opinion piece, but a list of passages and highlights from the book that resonated. 
-</p>
+<div class="summary">
+  I love reading. Mostly non-fiction. Occasionally, I will post a summary of the books I read and found interesting, which you can find below. You can find my reading list for <a href="/books-I-read-in-2018">2018</a>, <a href="/books-I-read-in-2019">2019</a>, and <a href="/books-I-read-in-2020">2020</a>. Here is the list of books I am reading in <a href="https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN">2021</a>.
+</div>
 
 {% for post in site.categories["books"] %}
     
