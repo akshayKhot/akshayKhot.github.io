@@ -24,7 +24,7 @@ Before CityView, I did my Master's in Computer Science from the University of Vi
 
 I am married to Pratiksha, who loves to draw. You might see her [drawings](/drawings) frequently on the blog.  
 
-I love reading. Mostly non-fiction. Occasionally, I will post a summary of the books I read and found interesting on this blog. You can find my reading list for [2018](/books-I-read-in-2018), [2019](/books-I-read-in-2019), and [2020](https://public.3.basecamp.com/p/ZrVdP4oJC25YU3udUsUx24QL). [Here](https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN) is the list of books I am reading in [2021](https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN). 
+I love reading. Mostly non-fiction. Occasionally, I will post a summary of the books I read and found interesting on this blog. You can find my reading list for [2018](/books-I-read-in-2018), [2019](/books-I-read-in-2019), and [2020](/books-I-read-in-2020). Here is the list of books I am reading in [2021](https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN). 
 
 To get in touch, you can send me an email (see below).
 
