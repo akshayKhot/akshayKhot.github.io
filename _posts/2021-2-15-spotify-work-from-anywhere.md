@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Work From Anywhere
+tags: news
 ---
 
 The trend catches on. On Friday, Spotify [announced](https://newsroom.spotify.com/2021-02-12/distributed-first-is-the-future-of-work-at-spotify/) their "Work From Anywhere" program, which lets employees work from anywhere in the world, while still paying San Francisco and New York salaries.

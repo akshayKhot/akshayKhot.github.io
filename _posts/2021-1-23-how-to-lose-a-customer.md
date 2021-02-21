@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to (almost) Lose a User
-tags: news
+tags: news, thoughts
 ---
 
 Strange things companies do to proactively lose customers. 
