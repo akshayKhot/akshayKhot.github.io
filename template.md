@@ -20,3 +20,4 @@ A classic text on problem-solving by Jerry Weinberg. The book is short, but pack
     <img src="../images/random/">
   </a>
 </div>
+
