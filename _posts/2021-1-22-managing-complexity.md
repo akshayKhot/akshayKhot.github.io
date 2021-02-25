@@ -4,8 +4,6 @@ title: Managing Complexity
 tags: programming
 ---
 
-<small>*This article was originally published on [Write Software, Well](https://writesoftwarewell.com/posts/1)*.</small>
-
 Software development is difficult. Especially if you are working on a 25-year old enterprise software that has gone through multiple platforms, technologies, and has seen multiple generations of developers. All of which makes it really hard to understand and difficult to develop. 
 
 As a developer, I spend a lot of time writing code. But I spend even more time maintaining that code. Often, I go back to the code I wrote just a week ago and find it a tangled mess that I cannot understand. Over time, entropy kicks in, and the code becomes so complicated that it’s hard to even know what I was thinking when I wrote it.
