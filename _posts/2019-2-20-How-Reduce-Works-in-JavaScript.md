@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Reduce Works in JavaScript
+title: Reduce Method Implementation
 tags: programming
 ---
 

@@ -4,8 +4,6 @@ title: Programming Music
 tags: programming personal
 ---
 
-What music do you listen to while programming?
-
 For the last few weeks, I have been programming while listening to the Harry Potter theme. It has done wonders for my productivity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jATVgJ_grys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,4 +12,4 @@ As soon as it starts, it takes me to the magical world of Hogwarts. All the dist
 
 I am able to maintain my focus and concentration over a much longer period.  
 
-What other recommendations do you have? Let me know in the comments below. 
+What music do you listen to while programming? Let me know in the comments below. 
