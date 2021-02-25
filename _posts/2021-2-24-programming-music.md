@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming Music
+tags: programming personal
 ---
 
 What music do you listen to while programming?
