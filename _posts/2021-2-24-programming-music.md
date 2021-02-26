@@ -14,4 +14,4 @@ As soon as it starts, it takes me to the magical world of Hogwarts. All the dist
 
 I am able to maintain my focus and concentration over a much longer period.  
 
-What music do you listen to while programming? Let me know in the comments below. 
+What music do you listen to while programming?  
