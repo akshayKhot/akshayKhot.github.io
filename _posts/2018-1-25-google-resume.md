@@ -2,18 +2,15 @@
 layout: post
 title: The Google Resume
 category: books
-excerpt_separator: <!--more-->
 ---
+
+While preparing for the Microsoft and CityView interviews, I did a lot of meta reading on interviews and resume building. I came across a few really good resources such as [The Google Resume](https://www.amazon.ca/Google-Resume-Prepare-Microsoft-Company/dp/B071VGVN3L/ref=sr_1_4?dchild=1&qid=1590869767&refinements=p_27%3AGayle+Laakmann+McDowell&s=books&sr=1-4&text=Gayle+Laakmann+McDowell) from Gayle Laakmann McDowell. I also read a bunch of blog posts which I have grouped in this same post.
 
 <div class="book centered">
   <a href="../images/books/google_resume.jpg">
     <img src="../images/books/google_resume.jpg" alt="The Google Resume">
   </a>
 </div>
-
-While preparing for the Microsoft and CityView interviews, I did a lot of meta reading on interviews and resume building. I came across a few really good resources such as [The Google Resume](https://www.amazon.ca/Google-Resume-Prepare-Microsoft-Company/dp/B071VGVN3L/ref=sr_1_4?dchild=1&qid=1590869767&refinements=p_27%3AGayle+Laakmann+McDowell&s=books&sr=1-4&text=Gayle+Laakmann+McDowell) from Gayle Laakmann McDowell. I also read a bunch of blog posts which I have grouped in this same post.
-
-<!--more-->
 
 This doesn't cover everything, but I think it covers the most important foundational elements. Also, this is not a summary and/or my thoughts on the interviews, but a collection of my notes and highlights from the books and blogs that resonated with me, so if the tone of the text sounds different, that's probably why. Here we go..
 

@@ -2,18 +2,15 @@
 layout: post
 title: Hit Refresh
 category: books
-excerpt_separator: <!--more-->
 ---
+
+The son of an Indian Civil servant studies hard, gets an engineering degree, immigrates to the United States, and makes it in tech. But wait, there is more to it. Hit Refresh is less about the personal life of Satya and more about the amazing transformation happening inside Microsoft. This is my informal summary of Hit Refresh, an autobiography of Satya Nadella.
 
 <div class="book centered">
   <a href="../images/books/hit_refresh.jpg">
     <img src="../images/books/hit_refresh.jpg" alt="Hit Refresh">
   </a>
 </div>
-
-The son of an Indian Civil servant studies hard, gets an engineering degree, immigrates to the United States, and makes it in tech. But wait, there is more to it. Hit Refresh is less about the personal life of Satya and more about the amazing transformation happening inside Microsoft. This is my informal summary of Hit Refresh, an autobiography of Satya Nadella.
-
-<!--more-->
 
 I am usually sceptical to read biographies and autobiographies, to avoid the inherent narrative biases and survivor biases that come with them. As with many other autobiographies, there are examples of these biases in this book. However, the main reason I picked this book is to understand Microsoft’s makeover under Satya Nadella and the book does a great job of explaining that. It gives a fascinating account of Microsoft’s a journey towards the Cloud and provides his unique perspective on empathy, which is much different than the nowadays overly misused corporate buzzword.
 

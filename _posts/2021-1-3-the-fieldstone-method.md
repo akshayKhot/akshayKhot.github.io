@@ -2,19 +2,16 @@
 layout: post
 title: The Fieldstone Method
 category: books
-excerpt_separator: <!--more-->
 
 ---
+
+[Gerald M. Weinberg](https://akshaykhot.com/posts/27) is one of my favourite writers when it comes to explaining complicated ideas in simple terms. This book explains his writing process and contains valuable advice for aspiring writers. What's funny is that all the advice for writers is equally applicable to software developers. Just replace writing with programming.
 
 <div class="book centered">
   <a target="_blank" href="../images/books/the_fieldstone_method.jpg">
     <img src="../images/books/the_fieldstone_method.jpg" alt="Weinberg on Writing: The Fieldstone Method">
   </a>
 </div> 
-
-[Gerald M. Weinberg](https://akshaykhot.com/posts/27) is one of my favourite writers when it comes to explaining complicated ideas in simple terms. This book explains his writing process and contains valuable advice for aspiring writers. What's funny is that all the advice for writers is equally applicable to software developers. Just replace writing with programming.
-
-<!--more--> 
 
 > You can build anything you wish, in any style you wish, as long as you never attempt to write what you don't care about. You don't have to write only what you know about. In fact, writing about a subject is one of the best ways to learn about it. What would you really like to write?
 

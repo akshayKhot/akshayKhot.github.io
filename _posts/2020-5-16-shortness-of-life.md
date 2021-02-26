@@ -2,18 +2,15 @@
 layout: post
 title: On The Shortness of Life
 category: books
-excerpt_separator: <!--more-->
 ---
+
+One of the classic Stoic texts that has stood the tests of time for over two thousand years.
 
 <div class="book centered">
   <a target="_blank" href="../images/books/shortness_of_life.jpg">
     <img src="../images/books/shortness_of_life.jpg" alt="On The Shortness of Life">
   </a>
 </div> 
-
-One of the classic Stoic texts that has stood the tests of time for over two thousand years.
-
-<!--more-->
 
 Life will follow the path it began to take, and will neither reverse nor check its course. It will cause no commotion to remind you of its swiftness, but glide on quietly. It will not lengthen itself for a king’s command or a people’s favour. As it started out on its first day, so it will run on, nowhere pausing or turning aside. What will be the outcome? You have been preoccupied while life hastens on. Meanwhile death will arrive, and you have no choice in making yourself available for that.
 

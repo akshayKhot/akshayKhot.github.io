@@ -2,18 +2,15 @@
 layout: post
 title: Show Your Work
 category: books
-excerpt_separator: <!--more-->
 ---
+
+People are interested in how you work, if only you presented it to them in the right way. 
 
 <div class="book centered">
   <a href="../images/books/show_your_work.jpg">
     <img src="../images/books/show_your_work.jpg" alt="Show Your Work">
   </a>
 </div>
-
-People are interested in how you work, if only you presented it to them in the right way. 
-
-<!--more-->
 
 **Build good reputation online.**
 
