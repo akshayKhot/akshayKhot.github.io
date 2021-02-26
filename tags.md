@@ -6,9 +6,9 @@ permalink: /tags/
 
 <section class="tags">
 
-{% for tag in site.tags %}
-  <strong id="{{ tag[0] }}">{{ tag[0] }}</strong>
-  <ul>
+{% for tag in site.tags reversed %}
+  <ul id="{{ tag[0] }}">
+    <div class="tag-name">{{ tag[0] }}</div>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}

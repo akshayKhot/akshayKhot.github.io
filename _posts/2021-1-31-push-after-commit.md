@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Automatically Push Code After Commit
-tags: how-to useful
+tags: how-to
 ---
 
 If you are a solo developer working on a project, and need to push your changes immediately after committing them to the repository, Visual Studio Code has a shortcut that will make your life easier. 

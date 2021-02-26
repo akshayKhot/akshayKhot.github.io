@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google's SEO Guidelines
-tags: useful
+tags: 
 ---
 
 Search Engine Optimization is about helping Google understand and present your website so it's shows up prominently in the search results. This is an overview of the basics of SEO according to [Google](https://developers.google.com/search/docs/beginner/seo-starter-guide). 

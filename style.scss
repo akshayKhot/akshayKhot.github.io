@@ -203,6 +203,10 @@ footer {
 
 section.tags {
   margin: 1em;
+  div.tag-name {
+    font-size: 1.1em;
+    font-weight: bold;
+  }
 }
 
 section.archive {
@@ -228,3 +232,7 @@ section.books {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+ul:target {
+  background-color: lightyellow;
+}
