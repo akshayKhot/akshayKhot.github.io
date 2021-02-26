@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing IIS with PowerShell
-tags: programming
+tags: devops
 ---
 
 With Windows 10 and Windows Server 2016, a new and simplified IISAdministration module was released side by side with the existing WebAdministration Cmdlets. The new module contains simple cmdlets and provides direct access to the server manager. It also offers better support for pipeline and scaling. 

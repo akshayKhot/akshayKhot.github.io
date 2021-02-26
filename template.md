@@ -14,7 +14,7 @@ A classic text on problem-solving by Jerry Weinberg. The book is short, but pack
 
 <div class="random centered">
   <a target="_blank" href="../images/random/">
-    <img src="../images/random/">
+    <img src="../images/random/" alt="">
   </a>
 </div>
 
