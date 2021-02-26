@@ -13,8 +13,10 @@ let person = {
     name: 'Akshay',    
     age: 28
 }
+
 let cache = new Map();
 let count = 1;
+
 cache.set(person, count);
 console.log(cache); // logs Map { { name: 'Akshay', age: 28 } => 1 }
 

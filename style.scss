@@ -73,6 +73,13 @@ main {
     color: $link-color;
   }
 
+  p > code {
+    color: #000 !important;
+    background-color: #eee;
+    border-radius: 3px;
+    padding: 3px 5px;
+  }
+
   article.post {
     padding-bottom: 2em;
     border-bottom: 1px solid #eee;
