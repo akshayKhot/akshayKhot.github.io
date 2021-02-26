@@ -207,6 +207,13 @@ section.tags {
 
 section.archive {
   margin: 1em;
+  div.link {
+    margin: 0.7em 0;
+  }
+  div.date {
+    padding: 0.2em;
+    font-size: 0.7em;
+  }
 }
 
 section.books {

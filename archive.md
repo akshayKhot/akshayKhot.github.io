@@ -6,12 +6,18 @@ permalink: /archive/
 
 <section class="archive">
 
-<ul>
   {% for post in site.posts %}
-    <li>
+    <div class="link">
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <div class="date">{{ post.date | date: "%B %e, %Y" }}
+    {% if post.tags.size > 0 %}
+      in
+        {% for tag in post.tags %}
+          <strong><a href="/tags/#{{ tag }}">{{ tag }}{% if forloop.last %}{% else %},{% endif %}</a></strong>
+        {% endfor %}
+      {% endif %}
+    </div>
+    </div>
   {% endfor %}
-</ul>
 
 </section>
