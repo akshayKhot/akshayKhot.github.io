@@ -40,7 +40,6 @@ header {
   text-align: center;
   padding: 1em 0;
   border-bottom: 1px solid #eee !important;
-  // background-color: aliceblue;
 
   div.site-info {
     div.site-name {
@@ -68,21 +67,18 @@ header {
 }
 
 main {
-  padding: 1em 0;
+  padding-top: 0.5em;
   a {
     color: $link-color;
   }
 
   p > code {
     color: #000 !important;
-    background-color: #eee;
     border-radius: 3px;
     padding: 3px 5px;
   }
 
   article.post {
-    padding-bottom: 2em;
-    border-bottom: 1px solid #eee;
 
     .post-title {
       font-size: 1.2em;
@@ -118,6 +114,19 @@ main {
     .comments {
       margin-top: 3em;
     }
+  }
+
+  pre.highlight {
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    background-color: lightyellow;
+  }
+
+  code {
+    font-family:'Bitstream Vera Sans Mono',
+    'Courier',
+    monospace;
   }
 
 }
@@ -246,7 +255,7 @@ section.books {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
+@import "syntax/vs";
 @import "svg-icons";
 
 ul:target {
