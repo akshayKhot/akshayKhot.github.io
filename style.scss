@@ -67,7 +67,7 @@ header {
 }
 
 main {
-  padding-top: 0.5em;
+  padding: 0.5em 0;
   a {
     color: $link-color;
   }
@@ -132,7 +132,7 @@ main {
 }
 
 .pagination {
-  margin-top: 1em;
+  margin: 1em 0;
   .page {
     // border: 1px solid #ddd;
     margin-top: 0.5em;
