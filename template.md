@@ -10,11 +10,13 @@ A classic text on problem-solving by Jerry Weinberg. The book is short, but pack
   <a target="_blank" href="../images/books/are_your_lights_on.jpeg">
     <img src="../images/books/are_your_lights_on.jpeg" alt="Are Your Lights On?">
   </a>
+  <div class="caption">Base64 Character Set</div>
 </div>  
 
 <div class="random centered">
-  <a target="_blank" href="../images/random/">
-    <img src="../images/random/" alt="">
+  <a target="_blank" href="../images/random/base64_encoding.png">
+    <img src="../images/random/base64_encoding.png" alt="Base64 Encoding">
   </a>
+  <div class="caption">Base64 Alphabet</div>
 </div>
-
+ruby
