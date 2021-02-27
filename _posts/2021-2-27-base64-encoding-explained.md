@@ -3,9 +3,9 @@ layout: post
 title: Base64 Encoding, Explained
 ---
 
-While programming, it's easy to get by with a superficial understanding of many things and fool yourself by thinking that you are programming when you are blindly copy+pasting Stack Overflow answers and/or using the framework libraries.
+When programming, it's easy to get by with a superficial understanding of many things. You can easily fool yourself by thinking that you are programming when you are blindly copy+pasting Stack Overflow answers. 
 
-I am guilty of this, too. There are many times when I will come across a new concept when programming; that's what makes programming fun. At these moments, the temptation is to use that nice framework method to get the job done or copy the answer from a Stack Overflow question. But that robs you from using a better implementation or discovering bugs, if there are any, from that SO answer. It also doesn't build your understanding of that concept. Next time you run into a similar problem, you have to repeat the process.
+Base64 encoding was one of these topics that was bugging me for a while. I often came across Base64 data, such as Base64 encoded image or URL, and had no idea whatsoever it meant or why it was even used. Finally, I decided to do some research to fill that knowledge gap. Here's what I learned.
 
 <div class="random centered">
   <a target="_blank" href="../images/random/base64_encoding.png">
@@ -14,9 +14,7 @@ I am guilty of this, too. There are many times when I will come across a new con
   <div class="caption">Base64 Alphabet</div>
 </div>
 
-Base64 encoding was one of these topics that was bugging me for a while. I often came across Base64 data, such as Base64 encoded image or URL, and had no idea whatsoever it meant or why it was even used. Finally, I decided to do some research to fill that knowledge gap. Here's what I learned.
-
-Basically, Base64 encoding takes binary data and converts it into text, specifically ASCII text. The resulting text contains only letters from `A-Z`, `a-z`, numbers from `0-9`, and the symbols `+` and `/`. As there are 26 letters in the alphabet, we have `26 + 26 + 10 + 2 = 64` characters, hence the name Base64.  
+Base64 encoding takes binary data and converts it into text, specifically ASCII text. The resulting text contains only letters from `A-Z`, `a-z`, numbers from `0-9`, and the symbols `+` and `/`. As there are 26 letters in the alphabet, we have `26 + 26 + 10 + 2 = 64` characters, hence the name Base64.  
 
 As there are only 64 characters available to encode into, we can represent them using only 6 bits because `2^6 = 64`. Every Base64 digit represents 6 bits of data. There are 8 bits in a byte, and the closest common multiple of 8 and 6 is 24. So 24 bits, or 3 bytes, can be represented using 4 6-bit Base64 digits. For example, the text
 
