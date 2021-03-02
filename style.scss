@@ -242,6 +242,10 @@ section.tags {
     }
     ul {
       margin: 1em;
+
+      li {
+        margin: 0.1em;
+      }
     }
   }
 }
@@ -255,6 +259,9 @@ section.archive {
   }
   ul {
     margin: 1em;
+    li {
+      margin: 0.1em;
+    }
   }
 }
 

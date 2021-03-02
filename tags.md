@@ -6,7 +6,7 @@ permalink: /tags/
 
 <section class="tags">
 
-  {% for tag in site.tags reversed %}
+  {% for tag in site.tags %}
     <div id="{{ tag[0] }}" class="tag-container">
       <div class="tag-name"> {{ tag[0] }} </div>
       <ul>
