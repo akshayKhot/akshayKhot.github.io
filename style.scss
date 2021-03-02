@@ -241,8 +241,10 @@ section.tags {
 
 section.archive {
   margin: 1em;
-  div.link {
-    margin: 0.7em 0;
+  div.year {
+    margin: 0.5em 1em;
+    font-size: 1.5em;
+    font-weight: bold;
   }
   div.date {
     padding: 0.2em;
