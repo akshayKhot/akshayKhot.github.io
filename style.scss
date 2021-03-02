@@ -76,9 +76,11 @@ main {
     color: #000 !important;
     border-radius: 3px;
     padding: 3px 5px;
+    background-color: azure;
   }
 
   article.post {
+    margin-bottom: 2em;
 
     .post-title {
       font-size: 1.2em;
@@ -96,12 +98,15 @@ main {
       }
 
       blockquote {
-        background-color: #fff;
         border-left: 2px solid $gray;
         padding: 0.1em 1em;
-        color: $gray;
-        font-size: 1.2em;
+        font-size: 0.9em;
         font-style: italic;
+        background-color: lightyellow;
+      }
+
+      ul > li {
+        margin: 0.5em 0;
       }
     }
 
