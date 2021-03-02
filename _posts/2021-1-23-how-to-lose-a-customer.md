@@ -18,8 +18,11 @@ Now, my theory is that companies do this to lock their users and force them to k
 
 So I had almost given up on Evernote when I came across their upcoming feature list. And  there it is, the support for additional export options! 
 
-<div class="centered">
-  <img src="../images/random/evernote.jpg" alt="Additional Export Options">
+<div class="random centered">
+  <a target="_blank" href="../images/random/evernote.jpg">
+    <img src="../images/random/evernote.jpg" alt="Upcoming Evernote Features">
+  </a>
+  <div class="caption">Upcoming Features</div>
 </div>
 
 Looks like the angry customers might have forced the management into adding the export feature back into the product. Now, let's see if these options will include plain text or HTML. But for now, I haven't totally given up on Evernote. It's a great piece of software, it would be a shame to throw it away for some bad management decisions. 
