@@ -233,9 +233,16 @@ footer {
 
 section.tags {
   margin: 1em;
-  div.tag-name {
-    font-size: 1.1em;
-    font-weight: bold;
+
+  div.tag-container {
+    div.tag-name {
+      margin: 0.5em 1em;
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+    ul {
+      margin: 1em;
+    }
   }
 }
 
@@ -264,6 +271,6 @@ section.books {
 @import "highlights";
 @import "svg-icons";
 
-ul:target {
+div:target {
   background-color: lightyellow;
 }
