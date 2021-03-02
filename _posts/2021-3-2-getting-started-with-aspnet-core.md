@@ -106,7 +106,7 @@ To see your application in action, open a new browser window and go to [https://
   <div class="caption">Welcome Page</div>
 </div>
 
-Note: By default, the HTML for the web page that we just saw is stored in the `Layout` file, under the `View` folder. To keep things simple for future tutorials, I will remove the default header and footer. I will also remove all the CSS so we can start from a blank canvas.
+Note: By default, the HTML for the above web page is stored in the `Layout` file, under the `View` folder. To keep things simple for future tutorials, I have removed the default header and footer, and the default style so we can start from a blank canvas.
 
 If you want to stop the application, type `Ctrl+C` in the terminal window.
 
@@ -116,4 +116,5 @@ In the next post, we will learn how the MVC pattern, which forms the core of the
 
 ---
 
-<small>[1] In fact, this tutorial is inspired by rails guides. When I started learning ASP.NET, I wished there were guides similar to rails, but I couldn't find one. Hence I am writing one.</small> 
+<small>[1] In fact, this tutorial is inspired by [rails guides](https://guides.rubyonrails.org/). When I started learning ASP.NET, I wished there were guides similar to rails, but I couldn't find one. Hence I am writing one.</small> 
+
