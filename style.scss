@@ -241,14 +241,13 @@ section.tags {
 
 section.archive {
   margin: 1em;
-  div.year {
+  div.month {
     margin: 0.5em 1em;
-    font-size: 1.5em;
+    font-size: 1.1em;
     font-weight: bold;
   }
-  div.date {
-    padding: 0.2em;
-    font-size: 0.7em;
+  ul {
+    margin: 1em;
   }
 }
 

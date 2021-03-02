@@ -7,10 +7,10 @@ permalink: /archive/
 <section class="archive">
 
   {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <div class="year" id="y{{post.date | date: "%Y"}}">{{ currentdate }}</div>
+    <div class="month" id="y{{post.date | date: "%Y"}}">{{ currentdate }}</div>
     <ul>
     {% assign date = currentdate %}
   {% endif %}
