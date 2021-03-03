@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six Easy Pieces
-category: books
+date: 2018-2-3
 ---
 
 A really good introductory book to big ideas in Physics, by Richard Feynman. It is very approachable, and can be read by a high-school student as well as someone doing a PhD. He explains some really advanced concepts by relating them to everyday objects and events in life. The book literally changes the way you look at the world.

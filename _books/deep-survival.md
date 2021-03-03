@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep Survival
-category: books
+date: 2021-2-12
 ---
 
 Deep Survival is less about outdoor survival and more about life. Its lessons go far beyond the wilderness and help you not only survive, but thrive with the challenges that life throws at you. Really well-written book. A must read. Here are my highlights.

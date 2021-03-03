@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Show Your Work
-category: books
+date: 2020-7-19
 ---
 
 People are interested in how you work, if only you presented it to them in the right way. 

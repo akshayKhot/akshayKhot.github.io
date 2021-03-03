@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Your Lights On?
-category: books
+date: 2019-11-29
 ---
 
 A classic text on problem-solving by Jerry Weinberg. The book is short, but packed with wisdom. Especially useful if you are a software developer trying to build yet another feature for your application. 
