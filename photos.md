@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photos/
-location: ../images/gallery
+location: /images/gallery
 ---
 
 <div class="gallery">

@@ -9,8 +9,8 @@ If you are a solo developer working on a project, and need to push your changes 
 Open the settings (cmd + comma), and type 'Post commit'. You will see the **Git: Post Commit Command**. Now select **Push** from the dropdown. Now VS Code will automatically push your code to the remote repository whenever you commit your changes.
 
 <div class="random centered">
-  <a href="../images/random/post_commit.jpg">
-	  <img src="../images/random/post_commit.jpg" alt="Post Commit Hook">
+  <a href="/images/random/post_commit.jpg">
+	  <img src="/images/random/post_commit.jpg" alt="Post Commit Hook">
   </a>
 </div>
 

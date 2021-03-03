@@ -7,8 +7,8 @@ category: books
 While medical science has given us the ability to extend life, it does not ask – or answer – the question of if that extended life still has meaning. In this book, Dr. Gawande calls for change in the way medical professionals deal with illness and final stages of a patient’s life.
 
 <div class="centered book">
-  <a href="../images/books/being_mortal.jpeg">
-    <img src="../images/books/being_mortal.jpeg" alt="Being Mortal">
+  <a href="/images/books/being_mortal.jpeg">
+    <img src="/images/books/being_mortal.jpeg" alt="Being Mortal">
   </a>
 </div>
 

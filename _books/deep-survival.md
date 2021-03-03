@@ -7,8 +7,8 @@ category: books
 Deep Survival is less about outdoor survival and more about life. Its lessons go far beyond the wilderness and help you not only survive, but thrive with the challenges that life throws at you. Really well-written book. A must read. Here are my highlights.
 
 <div class="book centered">
-  <a target="_blank" href="../images/books/deep_survival.jpg">
-    <img src="../images/books/deep_survival.jpg" alt="Deep Survival">
+  <a target="_blank" href="/images/books/deep_survival.jpg">
+    <img src="/images/books/deep_survival.jpg" alt="Deep Survival">
   </a>
 </div>
 

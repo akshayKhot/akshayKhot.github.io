@@ -7,8 +7,8 @@ tags: programming
 In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_1?dchild=1&keywords=a+philosophy+of+software+design&qid=1614756800&sr=8-1), John Ousterhout argues against the common practice of breaking large classes into smaller ones.
 
 <div class="book centered">
-  <a target="_blank" href="../images/books/philosophy_of_software_design.jpg">
-    <img src="../images/books/philosophy_of_software_design.jpg" alt="A Philosophy of Software Design">
+  <a target="_blank" href="/images/books/philosophy_of_software_design.jpg">
+    <img src="/images/books/philosophy_of_software_design.jpg" alt="A Philosophy of Software Design">
   </a>
   <div class="caption">A Philosophy of Software Design</div>
 </div>  
@@ -20,8 +20,8 @@ In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-
 **The implementation** consists of the code that carries out the promises made by the interface. In general, if a developer needs to know a particular piece of information in order to use a module, then that information is part of that module's interface.
 
 <div class="random centered">
-  <a target="_blank" href="../images/random/deep_modules.jpg">
-    <img src="../images/random/deep_modules.jpg" alt="Deep vs. Shallow Modules">
+  <a target="_blank" href="/images/random/deep_modules.jpg">
+    <img src="/images/random/deep_modules.jpg" alt="Deep vs. Shallow Modules">
   </a>
 </div>
 

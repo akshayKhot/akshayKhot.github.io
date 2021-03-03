@@ -9,8 +9,8 @@ When programming, it's easy to get by with a superficial understanding of many t
 Base64 encoding was one of these topics that was bugging me for a while. I often came across Base64 data, such as Base64 encoded image or URL, and had no idea whatsoever it meant or why it was even used. Finally, I decided to do some research to fill that knowledge gap. Here's what I learned.
 
 <div class="random centered">
-  <a target="_blank" href="../images/random/base64_encoding.png">
-    <img src="../images/random/base64_encoding.png" alt="Base64 Encoding">
+  <a target="_blank" href="/images/random/base64_encoding.png">
+    <img src="/images/random/base64_encoding.png" alt="Base64 Encoding">
   </a>
   <div class="caption">Base64 Alphabet</div>
 </div>

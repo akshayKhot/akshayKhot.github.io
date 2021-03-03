@@ -7,8 +7,8 @@ tags: thoughts
 Don't you just love when your entire sign-up workflow is done in minutes, and your bank transactions involving money are done in seconds, but a simple 'unsubscribe' from the marketing emails **may take up to 10 business days** to take effect?
 
 <div class="random centered">
-  <a target="_blank" href="../images/random/tangerine.png">
-    <img src="../images/random/tangerine.png" alt="Tangerine">
+  <a target="_blank" href="/images/random/tangerine.png">
+    <img src="/images/random/tangerine.png" alt="Tangerine">
   </a>
 </div>
 

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: A Wealth of Common Sense
-category: books
 ---
 
 One of the best books on finance. Doesn't delve into complex formulas, saving money on lattes, or maths. Instead focuses the fundamentals. **Simplicity, discipline, patience, and a focus on the long-term.** 
 
 <div class="book centered">
-  <a target="_blank" href="../images/books/common_sense.jpeg">
-    <img src="../images/books/common_sense.jpeg" alt="A Wealth of Common Sense">
+  <a target="_blank" href="/images/books/common_sense.jpeg">
+    <img src="/images/books/common_sense.jpeg" alt="A Wealth of Common Sense">
   </a>
 </div> 
 
