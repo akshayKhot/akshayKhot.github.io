@@ -12,8 +12,6 @@ In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-
   <div class="caption">A Philosophy of Software Design</div>
 </div>  
 
-> The best classes are those that provide powerful functionality yet have simple interfaces.
-
 **A class typically consists of two parts, the public interface and the private implementation.**
 
 **The interface** is everything that a developer working in a different module must know in order to use the given module. Typically, the interface describes what the module does but not how it does it.
@@ -35,3 +33,5 @@ The conventional wisdom in programming is that classes should be small, not deep
 **Deep Classes**
 
 **The best classes are those whose interfaces are much simpler than their implementation.** A simple interface minimizes the complexity imposed on the rest of the system. It also reduces the impact of the change in the implementation; as long as the interface doesn't change, no other modules need to know. A clearly defined interface tells exactly what developers need to know to use the module.
+
+> The best classes are those that provide powerful functionality yet have simple interfaces.
