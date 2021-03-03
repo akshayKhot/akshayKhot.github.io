@@ -122,8 +122,8 @@ main {
       color: #aaa;
     }
 
-    .comments {
-      margin-top: 3em;
+    .commentBox {
+      padding: 1em 0;
     }
   }
 
@@ -287,3 +287,4 @@ section.books {
 div:target {
   background-color: lightyellow;
 }
+
