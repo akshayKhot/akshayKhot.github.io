@@ -17,10 +17,6 @@ permalink: /books/
 
     <div class="post-title"><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a></div>
 
-    <div class="date">
-      {{ book.date | date: "%B %e, %Y" }}
-    </div>
-
     <div class="entry">
       {{ book.excerpt }}
     </div>
