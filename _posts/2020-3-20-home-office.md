@@ -11,6 +11,7 @@ Here's a picture of my home office on this bright Victoria morning.
   <a target="_blank" href="/images/random/home_office.jpeg">
     <img src="/images/random/home_office.jpeg" alt="Home Office">
   </a>
+  <div class="caption">Home Office</div>
 </div>
 
 Since we are all working from home nowadays, I'd like to recommend a book I read a while ago. Remote: Office Not Required is written by David Heinemeier Hansson (creator of Ruby on Rails framework) and Jason Fried.
