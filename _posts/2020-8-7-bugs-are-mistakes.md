@@ -14,4 +14,5 @@ It's time we stop sugar-coating our mistakes by calling them bugs and call them 
   <a target="_blank" href="/images/random/first_bug.jpg">
     <img src="/images/random/first_bug.jpg" alt="First Bug">
   </a>
+  <div class="caption">First Bug Found</div>
 </div>
