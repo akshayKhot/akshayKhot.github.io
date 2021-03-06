@@ -43,6 +43,7 @@ The following figure illustrates a typical Web application architecture with sta
 </div>
 
 **Q. What is a web application framework, and what are its benefits?**
+
 Learning to build a modern web application can be daunting. Most of the web applications have a standard set of functionality such as:
 
 - Build a dynamic response that corresponds to an HTTP request.
@@ -63,11 +64,13 @@ Frameworks help developers to write, maintain and scale applications. They provi
 - **New Technologies:** With ASP.NET Core, you can develop applications using new technologies such as Razor Pages and Blazor, in addition to the traditional Model-View-Controller approach. 
 
 **Q. When do you choose classic ASP.NET over ASP.NET Core?**
+
 Though it’s a better choice in almost all the aspects, you don’t have to switch to ASP.NET Core if you are maintaining a legacy ASP.NET application that you are happy with and that is no longer actively developed. 
 
 ASP.NET MVC is a better choice if you:Don’t need cross-platform support for your Web app.Need a stable environment to work in.Have nearer release schedules.Are already working on an existing app and extending its functionality.Already have an existing team with ASP.NET expertise.
 
 **Q. Explain how HTTP protocol works.**
+
 Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML. It handles communication between web browsers and web servers. HTTP follows a classical client-server model. A client, such as a web browser, opens a connection to make a request, then waits until it receives a response from the server. 
 
 HTTP is a protocol that allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web, and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. 
