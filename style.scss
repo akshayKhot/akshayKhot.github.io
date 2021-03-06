@@ -176,6 +176,7 @@ div.book {
 }
 
 div.random {
+  margin: 1em 0;
 
   img {
       max-width:100%;
@@ -184,8 +185,8 @@ div.random {
   }
 }
 
-.gallery {
-  min-height: 800px;
+div.gallery {
+   min-height: 800px;
   .snap {
     display: inline-block;
     img {
