@@ -15,8 +15,16 @@ permalink: /books/
     
   <article class="post b">
 
-    <div class="post-title"><a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a></div>
+    <div class="post-title">
+      <a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a>
+    </div>
 
+    <div class="book centered">
+      <a target="_blank" href="{{ site.baseurl }}{{ book.url }}">
+        <img src="/images/books/{{ book.imglink }}" alt="{{ book.title }}">
+      </a>
+    </div> 
+        
     <div class="entry">
       {{ book.excerpt }}
     </div>

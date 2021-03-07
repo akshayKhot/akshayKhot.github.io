@@ -2,6 +2,7 @@
 layout: post
 title: On The Shortness of Life
 date: 2020-5-16
+imglink: shortness_of_life.jpg
 ---
 
 One of the classic Stoic texts that has stood the tests of time for over two thousand years.

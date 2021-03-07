@@ -2,6 +2,7 @@
 layout: post
 title: Hit Refresh
 date: 2017-9-17
+imglink: hit_refresh.jpg
 ---
 
 The son of an Indian Civil servant studies hard, gets an engineering degree, immigrates to the United States, and makes it in tech. But wait, there is more to it. Hit Refresh is less about the personal life of Satya and more about the amazing transformation happening inside Microsoft. This is my informal summary of Hit Refresh, an autobiography of Satya Nadella.

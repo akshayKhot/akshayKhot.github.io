@@ -2,6 +2,7 @@
 layout: post
 title: Docker in Action
 date: 2020-4-22
+imglink: docker_in_action.jpg
 ---
 
 I have started diving deeper and deeper into Docker. Currently, I am reading "Docker in Action" by Jeffrey Nickoloff and Stephen Kuenzli. It's a very well-written book, in an easy to understand language. I highly recommend reading this book if you want to understand Docker and containers. Here is a brief summary of the first chapter, which gives a detailed introduction to Docker and related technology.

@@ -2,6 +2,7 @@
 layout: post
 title: A Wealth of Common Sense
 date: 2020-5-3
+imglink: common_sense.jpeg
 ---
 
 One of the best books on finance. Doesn't delve into complex formulas, saving money on lattes, or maths. Instead focuses the fundamentals. **Simplicity, discipline, patience, and a focus on the long-term.** 

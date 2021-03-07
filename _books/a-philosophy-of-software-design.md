@@ -2,6 +2,7 @@
 layout: post
 title: A Philosophy of Software Design
 date: 2021-3-4
+imglink: philosophy_of_software_design.jpg
 ---
 
 People have been programming for more than 80 years, but there has been surprisingly little conversation about how to design those programs or what good programs should look like. Though much has been written on development processes and techniques like agile and object-oriented programming, but the core problem of software design is still not explored. 

@@ -2,6 +2,7 @@
 layout: post
 title: Show Your Work
 date: 2020-7-19
+imglink: show_your_work.jpg
 ---
 
 People are interested in how you work, if only you presented it to them in the right way. 

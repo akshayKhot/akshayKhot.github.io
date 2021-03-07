@@ -2,6 +2,7 @@
 layout: post
 title: The Fieldstone Method
 date: 2021-1-3
+imglink: the_fieldstone_method.jpg
 ---
 
 [Gerald M. Weinberg](https://akshaykhot.com/posts/27) is one of my favourite writers when it comes to explaining complicated ideas in simple terms. This book explains his writing process and contains valuable advice for aspiring writers. What's funny is that all the advice for writers is equally applicable to software developers. Just replace writing with programming.
