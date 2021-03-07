@@ -12,7 +12,6 @@ This is the classic text on writing. It offers practicaly, highly useful advice 
   </a>
 </div>  
 
-
 **Omit needless words.**
 
 Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all sentences short, or avoid all detail and treat subjects only in outline, but that **every word tell**.
@@ -168,19 +167,33 @@ Here, following, are some suggestions and cautionary hints that may help the beg
 
     Dialogue is a total loss unless you indicate who the speaker is. In long dialogue passages containing no attributives, the reader may become lost and be compelled to go back and reread in order to puzzle the thing out. Obscurity is an imposition on the reader, to say nothing of its damage to the work.
 
-    
+11. **Avoid fancy words.**
 
+    Avoid the elaborate, the pretentious, the coy, and the cute. Do not be tempted by a twenty-dollar word when there is a ten-center handy, ready and able.
 
+12. **Be clear.**
 
+    Clarity, clarity, clarity. When you become hopelessly mired in a sentence, it is best to start fresh; do not try to fight your way through against the terrible odds of syntax. Usually what is wrong is that the construction has become too involved at some point; the sentence needs to be broken apart and replaced by two or more shorter sentences. When you say something, make sure you have said it.
 
+13. **Do not inject opinion.**
 
+    We all have opinions about almost everything, and the temptation to toss them in is great. Unless there is a good reason for its being there, do not inject opinion into a piece of writing.
 
+    Opinions scattered indiscriminately about leave the mark of egotism on a work. To air one's views at an improper time may be in bad taste. 
 
+14. **Do not take shortcuts at the cost of clarity.**
 
+    Do not use initials unless they are easily understood. Write things out. Many shortcuts are self-defeating. They waste the reader's time instead of conserving it. 
 
+    The longest way round is usually the shortest way home, and the one truly reliable shortcut in writing is to choose words that are strong and surefooted to carry readers on their way. 
 
+15. **Prefer the standard to the offbeat.**
 
+    Young writers will be drawn at every turn toward eccentricities in language. They will hear the beat of new vocabularies, the exciting rhythms of special segments of their society, each speaking a language of its own. All of us come under the spell of these unsettling drums; the problem for beginners is to listen to them, learn the words, feel the vibrations, and not be carried away.
 
+A final note:
+
+>Your whole duty as a writer is to please and satisfy yourself, and the true writer always plays to an audience of one. Start sniffing the air, or glancing at the Trend Machine, and you are as good as dead, although you may make a nice living.
 
 
 
