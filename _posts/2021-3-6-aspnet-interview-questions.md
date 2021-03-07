@@ -5,6 +5,10 @@ title: ASP.NET Interview Questions
 
 Here is a list of questions on ASP.NET that you might get asked in an interview. I originally wrote this 5000-word article for InterviewBit. Hope it helps for your next interview.  
 
+I have divided the interview questions into two sections. The basic interview questions cover the fundamentals and focus on understanding the application structure of a basic ASP.NET project. Then, I cover the more advanced concepts such as dependency injection, routing, and model binding in the advanced interview questions. 
+
+A basic understanding of common object-oriented concepts and front-end technologies such as HTML, CSS, and JavaScript is expected. 
+
 **What is ASP.NET?**
 
 ASP.NET is a web application framework developed by Microsoft which was released as part of the .NET framework. It makes it easy to build dynamic web applications. Some other examples of similar web application frameworks include Ruby on Rails (Ruby), Django (Python), and Express (JavaScript). 
@@ -20,8 +24,6 @@ ASP.NET Core is a **cross-platform**, **high-performance**, and **open-source** 
 Both the ASP.NET and ASP.NET Core run on C#, an object-oriented, general-purpose programming language. ASP.NET Core inherits many concepts and features from its ASP.NET heritage, but it’s fundamentally a new framework.
 
 Though Microsoft is going to support the legacy ASP.NET framework, it’s not going to develop it actively. The new ASP.NET Core framework will include all the new features and enhancements. Going forward, Microsoft is recommending developers to build all the new web applications with ASP.NET Core instead of the legacy ASP.NET framework. 
-
-We have divided the interview questions into two sections. The basic interview questions cover the fundamentals and focus on understanding the application structure of a basic ASP.NET project. Then, we cover the more advanced concepts such as dependency injection, routing, and model binding in the advanced interview questions. A basic understanding of common object-oriented concepts and front-end technologies such as HTML, CSS, and JavaScript is also expected. 
 
 **Q. What is a web application?**
 
