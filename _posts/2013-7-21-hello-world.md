@@ -6,7 +6,7 @@ tags: personal
 
 After two weeks, I have left my job at Neeble Technologies. I feel exhilarated. The last four years of my life were dedicated to the single-minded goal of becoming a software engineer, get a high-paying job at an MNC, and live happily ever after. I don’t know what I am going to do next. 
 
-The last two weeks were terrible. Every morning, I woke up at 6 am, took the crowded bus to Borivali station, waited for the train, got pushed and shoved into the jam-packed Mumsbai local, got down at Andheri station, crossed the bridge to the east side, took another crowded bus which literally crawls to Chandivali which is in a faraway corner in Andheri East, and walked to the Neeble office.
+The last two weeks were terrible. Every morning, I woke up at 6 am, took the crowded bus to Borivali station, waited for the train, got pushed and shoved into the jam-packed Mumbai local, got down at Andheri station, crossed the bridge to the east side, took another crowded bus which literally crawls to Chandivali which is in a faraway corner in Andheri East, and walked to the Neeble office.
 
 The whole journey takes almost 2 hours, one way. Repeat the same journey in the evening, and I arrive home late at night, exhausted. Repeat again, tomorrow. I won’t complain about the pollution and traffic of Mumbai, but you get an idea. I kept lying to my mom, saying it was a good day at work while hating every minute of it. Worst of all, I hated the 4 hours of my life wasted in commute, every single day.
 
