@@ -146,10 +146,29 @@ Here, following, are some suggestions and cautionary hints that may help the beg
 
    Remember, it is no sign of weakness or defeat that your manuscript ends up in need of major surgery. This is a common occurrence in all writing, and among the best writers.
 
+6. **Do not overwrite.**
+
+   Rick, ornate prose is hard to digest, generally unwholesome, and sometimes nauseating. When writing with a computer, you must guard against wordiness. Do not add unnecessary words just because it's easy. It's always a good idea to reread your writing later and ruthlessly delete the excess. 
+
+7. **Do not overstate.**
+
+   When you overstate, readers will be instantly on guard, and everything that has preceded your overstatement as well as everything that follows it will be suspect in their minds because they have lost confidence in your judgment or your poise. 
+
+   Overstatement is one of the common faults. A single overstatement, wherever or however it occurs, diminishes the whole, and a single carefree superlative has the power to destroy, for readers, the object of your enthusiasm.
+
+8. **Avoid the use of qualifiers.**
+
+   Rather, very, little, pretty — these are the leeches that infest the pond of prose, sucking the blood of words.
+
+9. **Do not explain too much.**
+
+   It is seldom advisable to tell all. Be sparing, for instance, in the use of adverbs after “he said,” “she replied,” and the like: “he said consolingly”; “she replied grumblingly.” Let the conversation itself disclose the speaker’s manner or condition.
+
+10. **Make sure the reader knows who is speaking.**
+
+    Dialogue is a total loss unless you indicate who the speaker is. In long dialogue passages containing no attributives, the reader may become lost and be compelled to go back and reread in order to puzzle the thing out. Obscurity is an imposition on the reader, to say nothing of its damage to the work.
+
     
-
-
-
 
 
 
