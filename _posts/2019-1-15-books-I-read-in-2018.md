@@ -5,9 +5,9 @@ title: Books I Read in 2018
 
 As a bibliophile, 2018 was a great year. I read 70 books and skimmed through many more, averaging at least five books per month. Here is a list of all the books I read last year.
 
-1. The Age of Absurdity
-2. Cracking the Tech Interview
-3. Show Your Work
+1. [The Age of Absurdity](/books/age-of-absurdity)
+2. [Cracking the Tech Interview](/books/google-resume)
+3. [Show Your Work](/books/show-your-work)
 4. The Pattern on the Stone
 5. Rework
 6. The Art of War
@@ -21,7 +21,7 @@ As a bibliophile, 2018 was a great year. I read 70 books and skimmed through man
 14. The Book of Five Rings
 15. On the Shortness of Life
 16. Why We Sleep
-17. Hit Refresh
+17. [Hit Refresh](/books/hit-refresh)
 18. Organize Tomorrow Today
 19. 101 Things I learned In Engineering School
 20. 101 Things I learned In Advertising School
@@ -54,7 +54,7 @@ As a bibliophile, 2018 was a great year. I read 70 books and skimmed through man
 47. Finding Flow
 48. The Halo Effect
 49. Education of a Value Investor
-50. A Wealth of Common Sense
+50. [A Wealth of Common Sense](/books/a-wealth-of-common-sense)
 51. Antidote
 52. Playing to Win: Strategy
 53. Errors
