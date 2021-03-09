@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benefits of Remote Work
+title: On Remote Work
 tags: thoughts
 ---
 
