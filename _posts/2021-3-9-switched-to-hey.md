@@ -13,7 +13,7 @@ I have finally made a switch to [Hey](https://hey.com) for email. From now on, y
   <div class="caption">Hey</div>
 </div>
 
-Here are some reasons am paying $99 USD per year for email. 
+Here are three reasons am paying $99 USD per year for email. 
 
 - I don't want to store my personal emails on Google's servers anymore.
 
