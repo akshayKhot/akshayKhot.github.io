@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I have a new Email
+title: I Have a New Email
 tags: news personal
 ---
 
