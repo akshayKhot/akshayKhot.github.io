@@ -144,23 +144,19 @@ Information hiding reduces complexity in two ways.
 
 Hiding variables and methods using `private` is not the same thing as information hiding. Though they help by preventing access, information about them can still be exposed through public methods such as getters and setters. 
 
+**Information leakage**
 
+It occurs when a design decision is reflected in multiple modules. This creates a dependency between them. Any change to that design decision will require changes to all of the involved modules. Information hiding can often be improved by making a class slightly larger. 
 
+When implementations are modified, the changes often involve changes in the representation of key data structures (to improve performance, for example). Any change to that representation will result in a change to the interface, which will require modifications to all callers.
 
+Thus, it’s important to avoid exposing internal data structures as much as possible.
 
+**Information hiding within a class**
 
+Try to design the private methods within a class so that each method encapsulates some information or capability and hides it from the rest of the class. In addition, try to minimize the number of places where each instance variable is used.
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
