@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spike in Visitors
+title: Jason Fried Retweets My Blog
 ---
 
 So this is what happens when Jason Fried retweets about my blog post.
@@ -23,7 +23,7 @@ Jason saw it and replied to it in a retweet.
   <div class="caption">Jason Retweets Me</div>
 </div>
 
-This is the result. Within minutes, my obscure blog that no one reads went from 0 to 200 visitors. 
+This is the result. 
 
 <div class="random centered">
   <a target="_blank" href="/images/random/blog_traffic.jpg">
@@ -31,5 +31,6 @@ This is the result. Within minutes, my obscure blog that no one reads went from 
   </a>
   <div class="caption">Spike in blog traffic</div>
 </div>
+Within minutes, my obscure blog that no one reads went from 0 to 200 visitors. 
 
 Thanks, Jason. 
