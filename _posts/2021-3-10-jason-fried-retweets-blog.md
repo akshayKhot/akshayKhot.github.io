@@ -3,7 +3,7 @@ layout: post
 title: Jason Fried Retweets My Blog
 ---
 
-So this is what happens when Jason Fried retweets about my blog post.
+So this is what happens when Jason Fried retweets a link to my blog.
 
 Yesterday, I posted a tweet mentioning my blog [post](/switched-to-hey) about switching to Hey. 
 
