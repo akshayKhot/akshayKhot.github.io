@@ -132,11 +132,14 @@ main {
     }
   }
 
-  pre.highlight {
-    padding: 1em;
-    margin-bottom: 1em;
-    border-radius: 6px;
-    border: 1px solid #eee;
+  pre {
+
+    highlight {
+      padding: 1em;
+      margin-bottom: 1em;
+      border-radius: 6px;
+      border: 1px solid #eee;
+    }
   }
 
   code {
