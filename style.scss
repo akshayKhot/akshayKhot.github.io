@@ -133,12 +133,14 @@ main {
   }
 
   pre {
-
+    border: 1px solid #eee;
+    padding: 1em;
+    box-shadow: 0 5px 15px #eee;
+    border-radius: 3px;
+    
     highlight {
       padding: 1em;
       margin-bottom: 1em;
-      border-radius: 6px;
-      border: 1px solid #eee;
     }
   }
 
