@@ -104,11 +104,15 @@ main {
       } 
 
       blockquote {
+        p {
+          margin: 0;
+          line-height: 1.6em;
+        }
         border-left: 2px solid $gray;
-        padding: 0.1em 1em;
-        font-size: 1em;
+        padding: 1em;
+        font-size: 0.9em;
         font-style: italic;
-        background-color: lightyellow;
+        box-shadow: 0 5px 15px #eee;
       }
 
       ul > li {

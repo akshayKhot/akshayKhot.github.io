@@ -88,7 +88,7 @@ Good writing, on the other hand, teaches the learning writer about style, gracef
 
 So we read to experience the mediocre and the outright rotten; such experience helps us to recognize those things when they begin to creep into our own work, and to steer clear of them. We also read in order to measure ourselves against the good and the great, to get a sense of all that can be done. And we read in order to experience different styles.
 
-I enjoyed readnig a wide range of authors. When I started writing, all these styles merged, creating a kind of hilarious stew. This sort of stylistic blending is a necessary part of developing one’s own style, but it doesn’t occur in a vacuum. You have to read widely, constantly refining (and redefining) your own work as you do so.
+I enjoyed reading a wide range of authors. When I started writing, all these styles merged, creating a kind of hilarious stew. This sort of stylistic blending is a necessary part of developing one’s own style, but it doesn’t occur in a vacuum. You have to read widely, constantly refining (and redefining) your own work as you do so.
 
 >If you don’t have time to read, you don’t have the time (or the tools) to write. Simple as that.
 
