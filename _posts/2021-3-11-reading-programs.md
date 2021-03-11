@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading Programs
+tags: programming thoughts
 ---
 
 When was the last time you read a program?
