@@ -4,7 +4,7 @@ title: Upgrade Your Apple Devices
 tags: news
 ---
 
-If you are using any Apple product (phone, tablet, laptop, computer), upgrade it ASAP.
+If you are using any Apple product (phone, tablet, laptop, computer), **upgrade it ASAP**.
 
 A severe bug was discovered in the WebKit engine (used by the Safari browser), which could lead to a complete take over the affected device simply by visiting a bad website.
 
