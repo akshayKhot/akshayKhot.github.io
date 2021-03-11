@@ -2,13 +2,14 @@
 layout: post
 title: Reading Programs
 tags: programming thoughts
+featured: true
 ---
 
 When was the last time you read a program?
 
 Programming is similar to writing in so many ways. One way to learn writing is to write, but one also learns to write by reading. We read examples—both good and bad—to facilitate learning. But how many programmers learn to write programs by reading programs?
 
-In his book On Writing, Stephen King proclaims:
+In his book [On Writing](https://www.amazon.ca/Writing-Memoir-Craft-Stephen-King/dp/1439193630/ref=sr_1_1?dchild=1&keywords=on+writing&qid=1615475063&sr=8-1), Stephen King proclaims:
 
 > If you want to be a writer, you must do two things above all others: read a lot and write a lot. There’s no way around these two things that I’m aware of, no shortcut.
 
