@@ -64,3 +64,37 @@ At its most basic we are only discussing a learned skill, but do we not agree th
 
 ### On Writing
 
+I am approaching the heart of this book with two theses, both simple. 
+
+1. Good writing consists of mastering the fundamentals (vocabulary, grammar, the elements of style) and then filling the third level of your toolbox with the right instruments. 
+2. While it is impossible to make a competent writer out of a bad writer, and while it is equally impossible to make a great writer out of a good one, it is possible, with lots of hard work, dedication, and timely help, to make a good writer out of a merely competent one.
+
+What follows is everything I know about how to write good fiction. I’ll be as brief as possible, because your time is valuable and so is mine, and we both understand that the hours we spend talking about writing is time we don’t spend actually doing it.
+
+if you don’t want to work your ass off, you have no business trying to write well—settle back into competency and be grateful you have even that much to fall back on. There is a muse,1 but he’s not going to come fluttering down into your writing room and scatter creative fairy-dust all over your typewriter or computer station. He lives in the ground. He’s a basement guy. You have to descend to his level, and once you get down there you have to furnish an apartment for him to live in. You have to do all the grunt labor, in other words, while the muse sits and smokes cigars and admires his bowling trophies and pretends to ignore you. Do you think this is fair? I think it’s fair. He may not be much to look at, that muse-guy, and he may not be much of a conversationalist (what I get out of mine is mostly surly grunts, unless he’s on duty), but he’s got the inspiration. It’s right that you should do all the work and burn all the midnight oil, because the guy with the cigar and the little wings has got a bag of magic. There’s stuff in there that can change your life. 
+
+Believe me, I know.
+
+> If you want to be a writer, you must do two things above all others: read a lot and write a lot. There’s no way around these two things that I’m aware of, no shortcut.
+>
+
+I’m a slow reader, but I usually get through seventy or eighty books a year, mostly fiction. I don’t read in order to study the craft; I read because I like to read. It’s what I do at night, kicked back in my blue chair. Similarly, I don’t read fiction to study the art of fiction, but simply simply because I like stories. Yet there is a learning process going on. Every book you pick up has its own lesson or lessons, and quite often the bad books have more to teach than the good ones.
+
+What could be more encouraging to the struggling writer than to realize his/her work is unquestionably better than that of someone who actually got paid for his/her stuff? 
+
+> One learns most clearly what not to do by reading bad prose—
+
+Good writing, on the other hand, teaches the learning writer about style, graceful narration, plot development, the creation of believable characters, and truth-telling. It can also serve as a spur, goading the writer to work harder and aim higher. Being swept away by a combination of great story and great writing—of being flattened, in fact—is part of every writer’s necessary formation. You cannot hope to sweep someone else away by the force of your writing until it has been done to you. 
+
+So we read to experience the mediocre and the outright rotten; such experience helps us to recognize those things when they begin to creep into our own work, and to steer clear of them. We also read in order to measure ourselves against the good and the great, to get a sense of all that can be done. And we read in order to experience different styles.
+
+I enjoyed readnig a wide range of authors. When I started writing, all these styles merged, creating a kind of hilarious stew. This sort of stylistic blending is a necessary part of developing one’s own style, but it doesn’t occur in a vacuum. You have to read widely, constantly refining (and redefining) your own work as you do so.
+
+>If you don’t have time to read, you don’t have the time (or the tools) to write. Simple as that.
+
+Reading is the creative center of a writer’s life. I take a book with me everywhere I go, and find there are all sorts of opportunities to dip in. The trick is to teach yourself to read in small sips as well as in long swallows.
+
+Reading at meals is considered rude in polite society, but if you expect to succeed as a writer, rudeness should be the second-to-least of your concerns. The least of all should be polite society and what it expects.
+
+**The real importance of reading is that it creates an ease and intimacy with the process of writing; one comes to the country of the writer with one’s papers and identification pretty much in order. Constant reading will pull you into a place (a mind-set, if you like the phrase) where you can write eagerly and without self-consciousness. It also offers you a constantly growing knowledge of what has been done and what hasn’t, what is trite and what is fresh, what works and what just lies there dying (or dead) on the page. The more you read, the less apt you are to make a fool of yourself with your pen or word processor.**
+
