@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<!-- {% assign featured_posts = site.posts | where: "featured", "true" %}
+{% for post in featured_posts %}
+  <h2>{{ post.title }}</h2>
+{% endfor %} -->
+
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post b">
