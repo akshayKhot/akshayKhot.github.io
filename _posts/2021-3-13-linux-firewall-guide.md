@@ -3,7 +3,7 @@ layout: post
 title: A Guide to Firewall on Linux
 ---
 
-When you are tying to set up a new Linux server, dealing with firewalls can get quite overhwelming. Here's a a beginner's guide to firewalls on Linux. 
+When you are trying to set up a new Linux server, dealing with firewalls can get quite overwhelming. Here’s a beginner’s guide to firewalls on Linux.
 
 Traffic into or out of a computer is filtered through "ports," which are relatively arbitrary designations appended to traffic packets destined for use by a particular application.
 
@@ -11,7 +11,7 @@ By convention, some ports are routinely used for particular types of application
 
 Traffic to particular applications can be allowed or blocked by "opening" or "closing" (i.e. filtering) the ports designated for a particular type of traffic. If port 80 is "closed," for example, no (insecure) web browsing will be possible. 
 
-The default firewall configuration tool for Ubuntu is `ufw`. It stands for uncomplicated firewall. Developed to ease iptables firewall configuration, `ufw` provides a user friendly way to create an IPv4 or IPv6 host-based firewall. By default `ufw` is disabled.
+The default firewall configuration tool for Ubuntu is `ufw`. It stands for uncomplicated firewall. Developed to ease iptables firewall configuration, `ufw` provides a user-friendly way to create an IPv4 or IPv6 host-based firewall. By default `ufw` is disabled.
 
 By default, `ufw` will block all of the incoming connections and allow all outbound connections. This means that anyone trying to access your server will not be able to connect unless you specifically open the port, while all applications and services running on your server will be able to access the outside world.
 
