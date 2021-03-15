@@ -13,6 +13,8 @@ Programming is, among other things, a kind of writing. One way to learn writing 
 
 A young novelist of our time was recently asked who were his favorite authors. He responded simply that he never read novels, as his ideas were so new and superior to anyone else's that reading would only be a waste of his time. As you might expect, his work did not support his thesis. Perhaps the same could be said for some of our radical young programmers. Perhaps there is something to be gained from reading other people's programs—if only the amusement engendered by their bad examples. Perhaps if we want to understand how programmers program —to lift the veil of the programming mystique—we could fruitfully begin by seeing what is to be learned from the reading of programs.
 
+Warning: Reading code won't help if the reader has no sense of what's good and what's bad. 
+
 **An approach to read programs**
 
 Unlike novels, the best way to read them is not always from beginning to end. They are not even like mysteries, where we can turn to the penultimate page for the best part. Instead, as we look at each piece of code, we ask ourselves the question, **"Why is this piece here?"**
@@ -67,3 +69,24 @@ For whatever reason a particular piece of code gets inserted into the final prod
 - If you are a first-line manager, are you capable of reading the programs written by your programmers? Do you read them? 
 - If you are a higher-level manager, are your first-line managers capable of reading programs written by their programmers? Are you sure?
 - Review some code from a library or from your colleagues, or even from your own program. Try to analyze it into pieces of code that are there for reasons mentioned above. **What did you learn?**
+
+### What Makes a Good Program?
+
+It's very difficult to say that one program is better than another, or one programmer is better than another. Not at least, in the sense that we can study the program out of the context in hwich it was developed and in which it will be used nad declare it to have a goodness of 83.72 percent. 
+
+More often, then, we will be doing evaluation of programs not with respect to one another but with respect to a situation—a total situation —in which they are developed. Looking honestly at the situation, we are never looking for the best program, seldom looking for a good one, but always looking for one that meets the requirements.
+
+**Specifications**
+
+The most important criteria when evaluating a program is that it has to be correct. It should give the correct outputs for each possible input. If a program doesn't work, measures of efficiency, of adaptability, or of cost of production have no meaning. 
+
+> Any program that works is better than any program that doesn't.
+
+There is a difference between a program written for one user and a piece of 'software'. When there are multiple users, there are multiple specifications. When there are multiple specifications, there are multiple definitions of when hte program is working. 
+
+**Schedule**
+
+One of the recurring problems in programming is meeting schedules, and a program that is late is often worthless. The average programming manager would prefer that a project be estimated at twelve months and take twelve than that the same project be estimated at six months and take nine. 
+
+**Adaptability**
+
