@@ -40,7 +40,7 @@ with_params ("param1", "param2") { puts "With parameters" }
 
 Once a method receives a block, it can invoke that block using Ruby's `yield` statement. Think of `yield` as a method call that calls out to the block. 
 
-If the block has parameters, you can pass them to yield, which will forward them to the block. Within the block, you list the arguments between vertical bars (|).
+If the block has parameters, you can pass them to yield, which will forward them to the block. Within the block, you list the arguments between vertical bars  `|`.
 
 ```ruby
 def demo_block
