@@ -61,10 +61,10 @@ Here is a complete example that illustrates all the above concepts.
 
 ```ruby
 def demo_block
-	puts "In the method call"
-	yield
-	puts "In the method call"
-	yield
+  puts "In the method call"
+  yield
+  puts "In the method call"
+  yield
 end
 
 demo_block { puts "This is a block." }
