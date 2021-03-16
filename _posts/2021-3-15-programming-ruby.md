@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming Ruby
+tags: programming
 ---
 
 I have started learning the Ruby programming language for one of my side-projects that uses Ruby on Rails. Now the project is simple enough so that I could get by without knowing Ruby. But I thought learning the language would be a worthwhile project in itself. 
