@@ -70,6 +70,8 @@ For whatever reason a particular piece of code gets inserted into the final prod
 - If you are a higher-level manager, are your first-line managers capable of reading programs written by their programmers? Are you sure?
 - Review some code from a library or from your colleagues, or even from your own program. Try to analyze it into pieces of code that are there for reasons mentioned above. **What did you learn?**
 
+---
+
 ### What Makes a Good Program?
 
 It's very difficult to say that one program is better than another, or one programmer is better than another. Not at least, in the sense that we can study the program out of the context in hwich it was developed and in which it will be used nad declare it to have a goodness of 83.72 percent. 
@@ -89,4 +91,47 @@ There is a difference between a program written for one user and a piece of 'sof
 One of the recurring problems in programming is meeting schedules, and a program that is late is often worthless. The average programming manager would prefer that a project be estimated at twelve months and take twelve than that the same project be estimated at six months and take nine. 
 
 **Adaptability**
+
+The great majority of programs that are written, especially by professional programmers, remain in existence for a definite life span. And during that span, most of them become modified.
+
+The quality of documentation and the ease of making modifications, both planned and unplanned, should count heavily in any grading of a program, or of the programmer who writes that program.
+
+Adaptability is not free. Sometimes, to be sure, we get a program that happens to be adaptable as well as satisfactory in all other ways, but we generally pay for what we get—and often fail to get what we pay for. Fisher's Fundamental Theorem states—in terms appropriate to the present context—that the better adapted a system is to a particular environment, the less adaptable it is to new environments.
+
+1. Does the program meet specifications? Or, rather, how well does it meet specifications? 
+2. Is it produced on schedule, and what is the variability in the schedule that we can expect from particular approaches? 
+3. Will it be possible to change the program when conditions change? How much will it cost to make the change? 
+4. How efficient is the program, and what do we mean by efficiency? Are we trading efficiency in one area for inefficiency in another?
+
+---
+
+### How Can We Study Programming?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
