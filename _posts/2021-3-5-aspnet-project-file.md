@@ -4,9 +4,7 @@ title: ASP.NET Project File
 tags: aspnet-core programming
 ---
 
-In this article, we will take a look at the `.csproj` file in an ASP.NET Core application. 
-
-The project file is one of the most important files in our application. It tells .NET how to build the project. All .NET projects list their dependencies in the .csproj file. If you have worked with JavaScript before, think of it like a package.json file. The difference is, instead of a JSON, this is an XML file.  
+The project file is one of the most important files in an ASP.NET Core application. It tells .NET how to build the project. All .NET projects list their dependencies in the .csproj file. If you have worked with JavaScript before, think of it like a package.json file. The difference is, instead of a JSON, this is an XML file.  
 
 When you run `dotnet restore`, it uses the .csproj file to figure out which NuGet packages to download and copy to the project folder. NuGet is a package manager for the .NET ecosystem. Microsoft developed it to provide access to thousands of packages written by .NET developers. You can also use it to share the code you wrote with others.
 

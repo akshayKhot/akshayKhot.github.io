@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Base64 Encoding Works
-tags: programming
+tags: random
 ---
 
 When programming, it's easy to get by with a superficial understanding of many things. You can easily fool yourself by thinking that you are programming when you are blindly copy+pasting Stack Overflow answers. 

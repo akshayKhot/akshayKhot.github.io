@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Design
-tags: programming
+tags: development
 ---
 
 You have to "solve" the problem once to define it clearly and then solve it again to create a solution that works.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delegates in C#
-tags: programming
+tags: c-sharp
 ---
 
 Delegates in C# was one of the many concepts that eluded me for a long time. Not anymore. I started reading C# in Depth by Jon Skeet this morning, and the entire first chapter is devoted to delegates. It really dives deep into delegates. Here's a brief summary.

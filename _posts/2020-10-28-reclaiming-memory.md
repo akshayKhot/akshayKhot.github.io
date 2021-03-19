@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reclaiming Memory
-tags: programming
+tags: random
 ---
 
 In programming, [garbage collection](https://www.computerhope.com/jargon/g/garbage-collection.htm) refers to the process of programmatically cleaning up the memory allocated to objects that are not in use.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Async Programming Concepts
-tags: programming
+tags: c-sharp
 ---
 
 **Latency** is the amount of time required to obtain the desired result.

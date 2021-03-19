@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The MVC Pattern, Explained
-tags: programming aspnet-core
+tags: c-sharp aspnet
 ---
 
 Now that you have an ASP.NET application up and running, the next step is to understand the MVC pattern, which stands for Model-View-Controller, and forms the core of the ASP.NET MVC framework. 

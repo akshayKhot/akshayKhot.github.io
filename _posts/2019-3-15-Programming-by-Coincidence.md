@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming by Coincidence
-tags: programming cityview
+tags: cityview
 ---
 
 I spent many hours this week banging my head to parse a simple XML document. It was a real struggle to get anything done. According to pragmatic programmers, I was [programming by coincidence](https://pragprog.com/the-pragmatic-programmer/extracts/coincidence), without any clear plan, just hoping to get the code working somehow and failing.

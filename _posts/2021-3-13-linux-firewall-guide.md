@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Guide to the Linux Firewall
+tags: linux how-to
 ---
 
 When you are trying to set up a new Linux server, dealing with firewalls can get quite overwhelming. Here’s a beginner’s guide to firewalls on Linux.

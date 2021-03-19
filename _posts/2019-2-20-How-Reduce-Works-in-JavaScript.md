@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reduce Method Implementation
-tags: programming
+tags: javascript
 ---
 
 Since getting exposed to functional programming, I have started seeing functions everywhere. One of the list abstractions that I never really understood was the reduce function. Whenever I came across it, my eyes just used to glaze over it. Not anymore.

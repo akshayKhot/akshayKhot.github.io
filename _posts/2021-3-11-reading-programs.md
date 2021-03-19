@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Reading Programs
-tags: programming thoughts
+tags: development thoughts
 featured: true
 ---
-
-When was the last time you read a program?
 
 Programming is similar to writing in so many ways. One way to learn writing is to write, but one also learns to write by reading. We read examples—both good and bad—to facilitate learning. But how many programmers learn to write programs by reading programs?
 

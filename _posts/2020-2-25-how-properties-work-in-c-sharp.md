@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Properties Work in C#
-tags: programming
+tags: c-sharp
 ---
 
 In C#, we can declare properties in a few different ways. Let's try to understand each one in detail. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Event Pattern in .NET
-tags: programming
+tags: c-sharp
 ---
 
 Here is a simple example that illustrates how to use the event pattern in .NET.

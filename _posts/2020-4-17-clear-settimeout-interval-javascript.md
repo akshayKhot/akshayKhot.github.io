@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time Out
-tags: programming
+tags: javascript
 ---
 
 Did you know that you can cancel the scheduled execution of a `setTimeOut()` function in JavaScript? I didn't, either. Here's how it works.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map vs. Object
-tags: programming
+tags: javascript
 ---
 
 Though they look similar in that both store key-value pairs, there are some important differences between a map and an object in JavaScript.

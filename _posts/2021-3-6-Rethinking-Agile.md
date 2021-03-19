@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rethinking Agile
-tags: programming cityview thoughts
+tags: cityview thoughts
 ---
 
 Agile is the most common software development methodology used when building software. Ideally, it means that you don't do any big, upfront design. Instead, you work in sprints and evolve your design as your understanding of the project grows. Design is part of the programming.

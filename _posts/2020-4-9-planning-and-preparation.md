@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planning and Preparation
-tags: programming
+tags: development
 ---
 
 This is the summary of the third chapter from the book Code Complete. It is about the importance of planning and preparation in software projects.

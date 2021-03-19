@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metaphors in Software
-tags: programming
+tags: development
 ---
 
 By comparing a topic you understand poorly to something similar you understand better, you can come up with better insights about the poorly understood topic. Metaphors help us understand the software development process by relating it to other activities we already know about.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classes Should Be Deep
-tags: programming
+tags: development
 ---
 
 In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_1?dchild=1&keywords=a+philosophy+of+software+design&qid=1614756800&sr=8-1), John Ousterhout argues against the common practice of breaking large classes into smaller ones.

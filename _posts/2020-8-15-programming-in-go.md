@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming in Go
-tags: programming
+tags: random
 ---
 
 Over the weekend, I have been writing a lot of Go code to automate some of the repetitive stuff I do at work, such as updating servers after grabbing the latest code from the trunk. This morning, I programmed for three hours straight from 5 to 8 am and enjoyed every minute of it. 

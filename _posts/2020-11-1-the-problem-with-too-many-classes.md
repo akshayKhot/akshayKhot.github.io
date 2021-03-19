@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Problem With Too Many Clases
-tags: programming 
+tags: design development 
 ---
 
 John Ousterhout, in his book 'A Philosophy of Software Design' talks about the problem with having too many classes.

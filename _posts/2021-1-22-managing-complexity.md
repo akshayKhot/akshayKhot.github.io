@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Complexity
-tags: programming
+tags: development
 ---
 
 Software development is difficult. Especially if you are working on a 25-year old enterprise software that has gone through multiple platforms, technologies, and has seen multiple generations of developers. All of which makes it really hard to understand and difficult to develop. 

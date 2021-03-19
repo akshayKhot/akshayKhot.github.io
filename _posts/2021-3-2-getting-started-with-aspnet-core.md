@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with ASP.NET Core
-tags: programming aspnet-core 
+tags: c-sharp aspnet
 ---
 
 In this article, we will look at how to get started with your first [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet) application. We will install the .NET framework, then use one of the generators to quickly get our application up and running in the browser. The whole process shouldn't take more than ten minutes. 
