@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Reviews
-tags: code-review thoughts
+tags: thoughts
 ---
 
 You want your code to be reviewed by a repairman, instead of an inspector. 

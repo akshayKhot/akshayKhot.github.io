@@ -284,18 +284,15 @@ section.tags {
   margin: 1em;
 
   div.tag-container {
+	  margin-top: 1.5em;
     div.tag-name {
-      margin: 0.5em 1em;
-      font-size: 1.1em;
+		margin: 0.5em 0;
+      font-size: 1.3em;
       font-weight: bold;
     }
-    ul {
-      margin: 1em;
-
-      li {
-        margin: 0.1em;
-      }
-    }
+    div.tagged-posts {
+		font-size: 0.9em;
+	}
   }
 }
 
