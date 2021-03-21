@@ -8,8 +8,8 @@ imglink: age_of_absurdity.jpeg
 I usually don’t read satire, but so far the best one has been “The Age of Absurdity” by Michael Foley, and it was one of the best books I read in 2017. It critiques the eccentricities of modern life, revealing some rather uncomfortable truths. I have tried to summarize the book to the best of my understanding, but it goes much deeper than my naive first impressions.
 
 <div class="book centered">
-  <a href="/images/books/age_of_absurdity.jpeg">
-    <img src="/images/books/age_of_absurdity.jpeg" alt="Age of Absurdity">
+  <a target="_blank" href="/images/books/{{ page.imglink }}">
+    <img src="/images/books/{{ page.imglink }}" alt="Age of Absurdity">
   </a>
 </div>
 

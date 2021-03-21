@@ -8,8 +8,8 @@ imglink: show_your_work.jpg
 People are interested in how you work, if only you presented it to them in the right way. 
 
 <div class="book centered">
-  <a href="/images/books/show_your_work.jpg">
-    <img src="/images/books/show_your_work.jpg" alt="Show Your Work">
+  <a target="_blank" href="/images/books/{{ page.imglink }}">
+    <img src="/images/books/{{ page.imglink }}" alt="Show Your Work">
   </a>
 </div>
 

@@ -8,8 +8,8 @@ imglink: shortness_of_life.jpg
 One of the classic Stoic texts that has stood the tests of time for over two thousand years.
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/shortness_of_life.jpg">
-    <img src="/images/books/shortness_of_life.jpg" alt="On The Shortness of Life">
+  <a target="_blank" href="/images/books/{{ page.imglink }}">
+    <img src="/images/books/{{ page.imglink }}" alt="On The Shortness of Life">
   </a>
 </div> 
 
