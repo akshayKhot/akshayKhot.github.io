@@ -20,8 +20,6 @@ The complexity that creeps in during the process of software development that is
 
 In his classic book **Code Complete**, Steve McConnell argues that **Managing Complexity** is the most important technical topic in software development, making it the software’s primary technical imperative. He provides a two-part approach to managing complexity.
 
-
-
 1. Minimize the amount of essential complexity that a developer’s brain has to deal with at any one time. 
 2. Keep accidental complexity from needlessly proliferating.
 

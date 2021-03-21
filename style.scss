@@ -7,6 +7,10 @@
 
 @import "variables";
 
+body {
+	background-color: azure;
+}
+
 .centered {
   text-align: center;
 }
@@ -42,18 +46,22 @@ hr {
   padding: 50px 100px;
 
   @media screen and (max-width: 850px) {
+	  margin-top: 0;
     padding: 60px 70px;
   }
 
   @media screen and (max-width: 650px) {
+	  margin-top: 0;
     padding: 40px 50px;
   }
 
   @media screen and (max-width: 450px) {
+	  margin-top: 0;
     padding: 30px;
   }
 
   @media screen and (max-width: 349px) {
+	  margin-top: 0;
     padding: 15px;
   }
 
