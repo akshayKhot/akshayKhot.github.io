@@ -1,13 +1,20 @@
 ---
 layout: post
 title: Smalltalk Best Practice Patterns
+date: 2021-3-21
+imglink: smalltalk.jpg
 ---
 
 This book is about the simple things experienced, successful developers do that beginners don't. It is a style guide, in a sense, teaching you how to communicate most clearly through your code. This book is for developers who want to program and want to do so as quickly, safely, and effectively as possible. 
 
-Best Practice: Set of procedures and skills that professionals recognize and use. 
+<div class="book centered">
+  <a target="_blank" href="/images/books/{{ page.imglink }}">
+    <img src="/images/books/{{ page.imglink }}" alt="Smalltalk Best Practice Patterns">
+  </a>
+</div>  
+**Best Practice**: Set of procedures and skills that professionals recognize and use. 
 
-Patterns: A decision an expert makes over and over. Even though all the results from the decision are different, the have a quality and reasoning behind them that is constant. Each pattern records a solution to a single recurring problem, including how to recognize the presence of the problem and how to generate the solution so that it fits the context. 
+**Patterns**: A decision an expert makes over and over. Even though all the results from the decision are different, the have a quality and reasoning behind them that is constant. Each pattern records a solution to a single recurring problem, including how to recognize the presence of the problem and how to generate the solution so that it fits the context. 
 
 Development consists of two processes that feed each other. First, you figure out what you want the computer to do. Then, you instruct the computer to do it. Writing a program changes what you want the computer to do, and the cycle repeats. 
 
