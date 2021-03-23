@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise Software
+title: What's Wrong With Enterprise Software 
 ---
 
 One of the strangest things about enterprise software to me has always been how damn far everyone is from the products they create and the customers who use them. 

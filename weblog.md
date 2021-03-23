@@ -9,7 +9,7 @@ permalink: /blog/
 {% assign posts = site.weblog | sort: 'date' | reverse %}
 {% for post in posts %}
 
-  <article class="post b text-center">
+  <article class="post b">
 
     <div class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
     
@@ -22,6 +22,12 @@ permalink: /blog/
         {% endfor %}
       {% endif %} -->
     </div>
+
+	<div class="entry">
+      {{ post.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 
   </article>
 
