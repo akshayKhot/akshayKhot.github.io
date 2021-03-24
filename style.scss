@@ -123,7 +123,7 @@ main {
     margin-bottom: 2em;
 
     .post-title {
-      font-size: 1.4em;
+      font-size: 1.1em;
       font-weight: bold;
       margin-top: 1em;
       a {
@@ -329,10 +329,6 @@ section.books {
 }
 
 section.weblog {
-	div.post-title {
-		font-size: 1.1em;
-		font-weight: bold;
-	}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
