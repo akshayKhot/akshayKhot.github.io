@@ -4,9 +4,9 @@ title: Personal Blog
 permalink: /blog/
 ---
 
-<section class="weblog">
+<section class="blog">
 
-{% assign posts = site.weblog | sort: 'date' | reverse %}
+{% assign posts = site.blog | sort: 'date' | reverse %}
 {% for post in posts %}
 
   <article class="post b">

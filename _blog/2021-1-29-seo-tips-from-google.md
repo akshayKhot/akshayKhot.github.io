@@ -21,7 +21,7 @@ SEO is often about making small modifications to parts of your website. Though t
    ```html
    <html>
      <head>
-       <title>Akshay's Weblog</title>
+       <title>Akshay's Blog</title>
      </head>
    </html>
    ```
@@ -33,7 +33,7 @@ SEO is often about making small modifications to parts of your website. Though t
    ```html
    <html>
      <head>
-       <title>Akshay's Weblog</title>
+       <title>Akshay's Blog</title>
        <meta name="description" content="Thoughts on software development and programming">
      </head>
    </html>

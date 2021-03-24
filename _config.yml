@@ -10,8 +10,9 @@ paginate: 5
 collections:
   books:
     output: true
-  weblog:
+  blog:
     output: true
+    permalink: /:collection/:title
 
 # Short bio or description (displayed in the header)
 description: All the things they didn't teach you in university. 
