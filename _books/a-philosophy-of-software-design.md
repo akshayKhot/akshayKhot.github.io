@@ -158,7 +158,33 @@ Try to design the private methods within a class so that each method encapsulate
 
 ---
 
+### Different Layer, Different Abstraction
 
+Software systems are composed in layers, where higher layers use the facilities provided by lower layers. In a well-designed system, each layer provides a different abstraction from the layers above and below it; if you follow a single operation as it moves up and down through layers by invoking methods, the abstractions change with each method call.
+
+**Pass-through Methods**
+
+A pass-through method is one that does little except invoke another method, whose signature is similar or identical to that of the calling method. It does nothing except pass its arguments to another method, usually with the same API. It indicates that there is not a clean division of responsibility between the classes. 
+
+Pass-through methods make classes shallower: they increase the interface complexity of the class, which adds complexity, but they don’t increase the total functionality of the system. They indicate that there is a confusion over the division of responsibility between classes. 
+
+The solution is to refactor the classes so that each class has a distinct and coherent set of responsibilities. 
+
+One approach, is to expose the lower level class directly to the callers of the higher level class, removing all responsibility for the feature from the higher level class.
+
+Another approach is to redistribute the functionality between the classes. Finally, if the classes can’t be disentangled, the best solution may be to merge them.
+
+Having methods with the same signature is not always bad. The important thing is that each new method should contribute significant functionality. Pass-through methods are bad because they contribute no new functionality.
+
+**Pass-through Variables**
+
+Another form of API duplication across layers is a pass-through variable, which is a variable that is passed down through a long chain of methods.
+
+Pass-through variables add complexity because they force all of the intermediate methods to be aware of their existence, even though the methods have no use for the variables. In addition, if a new variable is added, you have to modify a large number of interfaces and methods to pass the variable through all of the relevant paths. 
+
+Eliminating pass-through variables can be challenging. One approach is to see if there is already an object shared between the topmost and bottommost methods. If there is, then you can use that object to store all the pass-through variables. However, this object becomes the pass-through data, but at least it reduces the number of total intermediate variables. 
+
+Another approach is to use global variabels. This elimiates the need to pass the information from method to method, but global variables almost always create other problems. For example, global variables make it impossible to create two independent instances of the same system in the same process, since accesses to the global variables will conflict.
 
 
 

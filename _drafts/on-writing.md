@@ -98,7 +98,7 @@ Reading at meals is considered rude in polite society, but if you expect to succ
 
 **The real importance of reading is that it creates an ease and intimacy with the process of writing; one comes to the country of the writer with one’s papers and identification pretty much in order. Constant reading will pull you into a place (a mind-set, if you like the phrase) where you can write eagerly and without self-consciousness. It also offers you a constantly growing knowledge of what has been done and what hasn’t, what is trite and what is fresh, what works and what just lies there dying (or dead) on the page. The more you read, the less apt you are to make a fool of yourself with your pen or word processor.**
 
-### My Routine
+### Routine
 
 My own schedule is pretty clear-cut. Mornings belong to whatever is new—the current composition. Afternoons are for naps and letters. Evenings are for reading, family, Red Sox games on TV, and any revisions that just cannot wait. Basically, mornings are my prime writing time. 
 
@@ -117,4 +117,52 @@ For any writer, but for the beginning writer in particular, it’s wise to elimi
 Like your bedroom, your writing room should be private, a place where you go to dream. Your schedule—in at about the same time every day, out when your thousand words are on paper or disk—exists in order to habituate yourself, to make yourself ready to dream just as you make yourself ready to sleep by going to bed at roughly the same time each night and following the same ritual as you go. In both writing and sleeping, we learn to be physically still at the same time we are encouraging our minds to unlock from the humdrum rational thinking of our daytime lives. And as your mind and body grow accustomed to a certain amount of sleep each night—six hours, seven, maybe the recommended eight—so can you train your waking mind to sleep creatively and work out the vividly imagined waking dreams which are successful works of fiction.
 
 But you need the room, you need the door, and you need the determination to shut the door. You need a concrete goal, as well. The longer you keep to these basics, the easier the act of writing will become. **Don’t wait for the muse.** Your job is to make sure the muse knows where you’re going to be every day from nine ‘til noon or seven ‘til three. If he does know, I assure you that sooner or later he’ll start showing up, chomping his cigar and making his magic.
+
+Now comes the big question: What are you going to write about? And the equally big answer: Anything you damn well want. Anything at all  . . . . as long as you tell the truth.
+
+In terms of genre, it’s probably fair to assume that you will begin by writing what you love to read. What would be very wrong, I think, is to turn away from what you know and like (or love, the way I loved those old ECs and black-and-white horror flicks) in favor of things you believe will impress your friends, relatives, and writing-circle colleagues.
+
+Stylistic imitation is one thing, a perfectly honorable way to get started as a writer (and impossible to avoid, really; some sort of imitation marks each new stage of a writer’s development),
+
+Write what you like, then imbue it with life and make it unique by blending in your own personal knowledge of life, friendship, relationships, sex, and work. Especially work. People love to read about work. God knows why, but they do. If you’re a plumber who enjoys science fiction, you might well consider a novel about a plumber aboard a starship or on an alien planet.
+
+---
+
+In my view, stories and novels consist of three parts: narration, which moves the story from point A to point B and finally to point Z; description, which creates a sensory reality for the reader; and dialogue, which brings characters to life through their speech.
+
+Good description is a learned skill, one of the prime reasons why you cannot succeed unless you read a lot and write a lot. Description begins with visualization of what it is you want the reader to experience. It ends with your translating what you see in your mind into words on the page. Good description usually consists of a few well-chosen details that will stand for everything else. In most cases, these details will be the first ones that come to mind.
+
+The key to good description begins with clear seeing and ends with clear writing, the kind of writing that employs fresh images and simple vocabulary. As with all other aspects of the narrative art, you will improve with practice, but practice will never make you perfect. Why should it? What fun would that be? And the harder you try to be clear and simple, the more you will learn about the complexity of our American dialect. It be slippery, precious; aye, it be very slippery, indeed. Practice the art, always reminding yourself that your job is to say what you see, and then to get on with your story.
+
+One of the cardinal rules of good fiction is never tell us a thing if you can show us. Talk is sneaky: what people say often conveys their character to others in ways of which they—the speakers—are completely unaware.
+
+Everything I’ve said about dialogue applies to building characters in fiction. The job boils down to two things: paying attention to how the real people around you behave and then telling the truth about what you see.
+
+**Core ideas**: practice is invaluable (and should feel good, really not like practice at all) and that honesty is indispensable. Skills in description, dialogue, and character development all boil down to seeing or hearing clearly and then transcribing what you see or hear with equal clarity (and without using a lot of tiresome, unnecessary adverbs).
+
+No matter how you do it, there comes a point when you must judge what you’ve written and how well you wrote it. I don’t believe a story or a novel should be allowed outside the door of your study or writing room unless you feel confident that it’s reasonably reader-friendly. You can’t please all of the readers all of the time; you can’t please even some of the readers all of the time, but you really ought to try to please at least some of the readers some of the time.
+
+---
+
+### Revising the Work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
