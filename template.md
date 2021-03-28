@@ -1,7 +1,9 @@
+---
 layout: post
 title: Smalltalk Best Practice Patterns
 date: 2021-3-21
 imglink: smalltalk.jpg
+---
 
 A classic text on problem-solving by Jerry Weinberg. The book is short, but packed with wisdom. Especially useful if you are a software developer trying to build yet another feature for your application.
 
