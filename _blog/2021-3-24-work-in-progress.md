@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Work in Progress
+imglink: /images/random/pedestrians_busy.jpeg
 ---
 
 Feature requests, bug reports, support calls, and an onslaught of customer requests. **Is this what your typical day looks like?** You are reacting to other people's demands and needs, fighting battle after battle after battle. You spend the whole day on shallow, urgent tasks while losing track of important ones. **Could there be a better way?**
 
-<div class="random centered">
-  <a target="_blank" href="/images/random/pedestrians_busy.jpeg">
-    <img src="/images/random/pedestrians_busy.jpeg" alt="Pedestrians - Blurred">
-  </a>
-  <div class="caption">Busy, Busy, Busy</div>
-</div>
+[![Pedestrians - Blurred]({{ page.imglink }})]({{ page.imglink }}){:target="_blank"} 
+*Busy, Busy, Busy*{: .centered}
 
 This post is for developers who are struggling to keep their work under control, unorganized at best and disorganized at worst in managing the requests from their managers, clients, or customers. Some have been in this overloaded state for so long they don't know there is any other way. 
 
