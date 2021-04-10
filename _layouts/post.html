@@ -3,27 +3,31 @@ layout: default
 ---
 
 <article class="post">
-  <div class="post-title">{{ page.title }}</div>
+	<div class="post-title">{{ page.title }}</div>
 
-  <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
-    {% if page.tags.size > 0 %}
-    in
-      {% for tag in page.tags %}
-        <strong><a href="/tags/#{{ tag }}">{{ tag }}{% if forloop.last %}{% else %},{% endif %}
-        </a></strong>
-      {% endfor %}
-    {% endif %}
-  </div>
+	<div class="date">
+		{{ page.date | date: "%B %e, %Y" }}
+		{% if page.tags.size > 0 %}
+		in
+		{% for tag in page.tags %}
+		<strong><a href="/tags/#{{ tag }}">{{ tag }}{% if forloop.last %}{% else %},{% endif %}
+			</a></strong>
+		{% endfor %}
+		{% endif %}
+	</div>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+	<div class="entry">
+		{{ content }}
+	</div>
 
-  <div class="commentBox">
-    <a id="commentBtn" target="_blank" class="btn btn-success"
-    	href="mailto:akshay.khot@hey.com?subject={{ page.title }}"
-      role="button">Comment</a>
-  </div>
+	<div class="comment-message">
+		If you found this post helpful, or think it can be improved/corrected in any
+		way, please send me an email by clicking the button below. I look forward to and welcome your feedback.
+	</div>
+	<div class="commentBox">
+		<a target="_blank" href="mailto:{{ site.footer-links.email }}?subject={{ page.title }}">
+			<i class="svg-icon email"></i>
+		</a>
+	</div>
 
 </article>

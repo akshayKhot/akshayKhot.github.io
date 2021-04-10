@@ -149,6 +149,11 @@ main {
 		}
       }
 
+	  .caption {
+		  font-size: small;
+		  text-align: center;
+	  }
+
       h3 {
         margin-top: 1.5em;
         font-size: 1.1em;
@@ -166,7 +171,7 @@ main {
         box-shadow: 0 5px 15px #eee;
       }
 
-      ul > li {
+    li {
         margin: 0.5em 0;
 
         p {
@@ -180,6 +185,13 @@ main {
       margin: 0.6em 0;
       color: #aaa;
     }
+
+	.comment-message {
+		font-size: small;
+		background-color: lightyellow;
+		padding: 1em;
+		font-style: italic;
+	}
 
     .commentBox {
       text-align: center;
@@ -322,4 +334,3 @@ section.blog {
 div:target {
   background-color: lightyellow;
 }
-

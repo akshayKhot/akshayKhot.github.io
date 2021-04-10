@@ -116,6 +116,3 @@ error CS8803: Top-level statements must precede namespace and type declarations.
 ```
 
 Top-level statements make C# beginner-friendly, giving it a scripty feel, like Ruby or Python. They also make simple programs clear and expressive. If you just want to understand a concept in C# or try out a base class library, you can quickly do so using the top-level statements. They are also great for small tools and utilities. 
-
-Did I miss anything? Let me know. 
-
