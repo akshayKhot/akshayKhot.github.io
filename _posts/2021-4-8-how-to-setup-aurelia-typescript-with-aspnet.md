@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How to Setup an Aurelia + TypeScript Single-Page App on ASP.NET Core"
+title: "How to Setup an Aurelia + TypeScript Single Page App on ASP.NET"
 img_code: /images/random/aspnet_vs_code.jpg
 img_home: /images/random/aspnet_home.jpg
 img_aurelia: /images/random/aspnet_aurelia.jpg
 img_app: /images/random/aspnet_app.jpg
 ---
 
-This article is for **.NET** developers who want to build a responsive and fast **single-page application** using the **Aurelia** framework. It explains how to set up a simple **ASP.NET MVC** project, add support for an **Aurelia** app, and use **Webpack** to watch, compile and bundle the **TypeScript** files into a single JavaScript file. 
+This article is for .NET developers who want to build a responsive and fast single-page application using the Aurelia framework. It explains how to set up a simple ASP.NET MVC project, add support for an Aurelia app, and use Webpack to watch, compile and bundle the TypeScript files into a single JavaScript file. 
 
 Combined together, these tools provide a delightful development experience. If you are unfamiliar with them, I encourage you to check out the [sandbox project](https://github.com/akshayKhot/Sandbox#getting-started) I created on GitHub. In less than five minutes, you will have a complete dev environment to play with. 
 
@@ -41,7 +41,7 @@ A module bundler, which is a fancy term for a program that compiles multiple Jav
 
 ### Install Dotnet
 
-First, [download the dotnet framework](#). You can check if it's installed properly by typing `dotnet` in your terminal window. It should give you the following output. 
+First, [download the dotnet framework](https://dotnet.microsoft.com/download). You can check if it's installed properly by typing `dotnet` in your terminal window. It should give you the following output. 
 
 ```bash
 ➜  ~ dotnet
@@ -73,7 +73,7 @@ Restore succeeded.
 
 If you don't provide the `--name` flag, `dotnet` command creates the MVC project in the same directory you are running the command from. 
 
-Now that `dotnet` has created an ASP.NET MVC project for us, let's switch to the directory and open the project in [VS Code](#). 
+Now that `dotnet` has created an ASP.NET MVC project for us, switch to the directory and open the project in [VS Code](#). 
 
 ```bash
 ➜  cd Sandbox
@@ -82,7 +82,7 @@ Now that `dotnet` has created an ASP.NET MVC project for us, let's switch to the
 
 Once the project opens in VS Code, you should see the following structure. 
 
-[![VS Code]({{ page.img_code }})]({{ page.img_code }}){:target="_blank"}
+[![ASP.NET]({{ page.img_code }})]({{ page.img_code }}){:target="_blank"}
 
 {: .caption}
 ASP.NET
@@ -131,7 +131,7 @@ First, install node from the [node.js](https://nodejs.org/en/download/) website.
 
 Now your folder structure should look like this:
 
-[![VS Code]({{ page.img_aurelia }})]({{ page.img_aurelia }}){:target="_blank"} 
+[![Aurelia]({{ page.img_aurelia }})]({{ page.img_aurelia }}){:target="_blank"} 
 
 {: .caption}
 Aurelia
