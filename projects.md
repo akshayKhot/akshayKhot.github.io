@@ -1,6 +1,4 @@
 ---
-title: Projects
-permalink: /projects/
 ---
 
 
