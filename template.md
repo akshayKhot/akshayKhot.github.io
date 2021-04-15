@@ -2,7 +2,6 @@
 layout: post
 title: Smalltalk Best Practice Patterns
 date: 2021-3-21
-imglink: smalltalk.jpg
 imglink: /images/random/aspnet_vs_code.jpeg
 
 ---
