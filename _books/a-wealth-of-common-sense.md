@@ -7,7 +7,7 @@ imglink: common_sense.jpeg
 
 One of the best books on finance. Doesn't delve into complex formulas, saving money on lattes, or maths. Instead focuses the fundamentals. **Simplicity, discipline, patience, and a focus on the long-term.** 
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="A Wealth of Common Sense">
   </a>

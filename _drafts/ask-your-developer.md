@@ -7,7 +7,7 @@ imglink: ask_your_developer.jpeg
 
 At many companies, there’s often a false divide between businesspeople and software developers. There’s a disconnect between the way businesspeople think, and what they want to accomplish, and what the software developers in those companies think they’re supposed to do.
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="">
   </a>

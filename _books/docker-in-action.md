@@ -7,7 +7,7 @@ imglink: docker_in_action.jpg
 
 I have started diving deeper and deeper into Docker. Currently, I am reading "Docker in Action" by Jeffrey Nickoloff and Stephen Kuenzli. It's a very well-written book, in an easy to understand language. I highly recommend reading this book if you want to understand Docker and containers. Here is a brief summary of the first chapter, which gives a detailed introduction to Docker and related technology.
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Docker In Action">
   </a>

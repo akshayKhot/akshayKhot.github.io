@@ -7,7 +7,7 @@ imglink: smalltalk.jpg
 
 This book is about the simple things experienced, successful developers do that beginners don't. It is a style guide, in a sense, teaching you how to communicate most clearly through your code. This book is for developers who want to program and want to do so as quickly, safely, and effectively as possible. 
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Smalltalk Best Practice Patterns">
   </a>

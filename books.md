@@ -18,7 +18,7 @@ permalink: /books/
       <a href="{{ site.baseurl }}{{ book.url }}">{{ book.title }}</a>
     </div>
     
-    <div class="book centered">
+    <div class="book">
       <a target="_blank" href="{{ site.baseurl }}{{ book.url }}">
         <img src="{{site.bookshelf}}/{{ book.imglink }}" alt="{{ book.title }}">
       </a>

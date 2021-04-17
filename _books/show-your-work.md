@@ -7,7 +7,7 @@ imglink: show_your_work.jpg
 
 People are interested in how you work, if only you presented it to them in the right way. 
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Show Your Work">
   </a>

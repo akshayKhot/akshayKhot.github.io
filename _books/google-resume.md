@@ -7,7 +7,7 @@ imglink: google_resume.jpg
 
 While preparing for the Microsoft and CityView interviews, I did a lot of meta reading on interviews and resume building. I came across a few really good resources such as [The Google Resume](https://www.amazon.ca/Google-Resume-Prepare-Microsoft-Company/dp/B071VGVN3L/ref=sr_1_4?dchild=1&qid=1590869767&refinements=p_27%3AGayle+Laakmann+McDowell&s=books&sr=1-4&text=Gayle+Laakmann+McDowell) from Gayle Laakmann McDowell. I also read a bunch of blog posts which I have grouped in this same post.
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
     <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="The Google Resume">
   </a>

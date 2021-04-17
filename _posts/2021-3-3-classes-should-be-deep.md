@@ -6,7 +6,7 @@ tags: development
 
 In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-Software-Design-John-Ousterhout/dp/1732102201/ref=sr_1_1?dchild=1&keywords=a+philosophy+of+software+design&qid=1614756800&sr=8-1), John Ousterhout argues against the common practice of breaking large classes into smaller ones.
 
-<div class="book centered">
+<div class="book">
   <a target="_blank" href="{{site.bookshelf}}/philosophy_of_software_design.jpg">
     <img src="{{site.bookshelf}}/philosophy_of_software_design.jpg" alt="A Philosophy of Software Design">
   </a>
