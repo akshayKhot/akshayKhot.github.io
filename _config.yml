@@ -47,8 +47,8 @@ baseurl: ""
 
 # Image directory
 
-photos: "{{site.photos}}"
-bookshelf: "{{site.bookshelf}}"
+photos: "/images/random"
+bookshelf: "/images/books"
 
 
 #
