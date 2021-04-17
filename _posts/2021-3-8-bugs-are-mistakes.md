@@ -10,9 +10,6 @@ As long as we call our mistakes bugs, it may give us the comforting feeling that
 
 It's time we stop sugar-coating our mistakes by calling them bugs and call them by what they are. Just mistakes.
 
-<div class="random centered">
-  <a target="_blank" href="/images/random/first_bug.jpg">
-    <img src="/images/random/first_bug.jpg" alt="First Bug">
-  </a>
-  <div class="caption">First Bug Found</div>
-</div>
+<a target="_blank" href="{{ site.photos }}/first_bug.jpg">
+  <img src="{{ site.photos }}/first_bug.jpg" alt="First Bug">
+</a>

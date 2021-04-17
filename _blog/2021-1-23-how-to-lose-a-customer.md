@@ -19,8 +19,8 @@ Now, my theory is that companies do this to lock their users and force them to k
 So I had almost given up on Evernote when I came across their upcoming feature list. And  there it is, the support for additional export options! 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/evernote.jpg">
-    <img src="/images/random/evernote.jpg" alt="Upcoming Evernote Features">
+  <a target="_blank" href="{{site.photos}}/evernote.jpg">
+    <img src="{{site.photos}}/evernote.jpg" alt="Upcoming Evernote Features">
   </a>
   <div class="caption">Upcoming Features</div>
 </div>

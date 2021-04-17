@@ -8,8 +8,8 @@ imglink: ask_your_developer.jpeg
 At many companies, there’s often a false divide between businesspeople and software developers. There’s a disconnect between the way businesspeople think, and what they want to accomplish, and what the software developers in those companies think they’re supposed to do.
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/{{ page.imglink }}">
-    <img src="/images/books/{{ page.imglink }}" alt="">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
+    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="">
   </a>
 </div> 
 
@@ -149,8 +149,8 @@ Twilio does not sell products to consumers. We sell a service to software develo
 Our approach has been to win over the hearts and minds of developers who work at every kind of company with powerful, easy-to-learn communications building blocks they could quickly and confidently incorporate into the apps they’re building. So the secret of our success has been empowering a type of worker that few vendors actually treat as their customer: **software developers**. That’s why so many developers know about Twilio, while other parts of the company didn’t yet know what we did. Thus, Ask Your Developer.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/twilio_ad.png">
-    <img src="/images/random/twilio_ad.png" alt="Twilio Ad">
+  <a target="_blank" href="{{site.photos}}/twilio_ad.png">
+    <img src="{{site.photos}}/twilio_ad.png" alt="Twilio Ad">
   </a>
   <div class="caption">Twilio Advertisement</div>
 </div>

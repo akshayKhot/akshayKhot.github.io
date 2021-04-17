@@ -8,8 +8,8 @@ imglink: the_fieldstone_method.jpg
 [Gerald M. Weinberg](https://akshaykhot.com/posts/27) is one of my favourite writers when it comes to explaining complicated ideas in simple terms. This book explains his writing process and contains valuable advice for aspiring writers. What's funny is that all the advice for writers is equally applicable to software developers. Just replace writing with programming.
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/{{ page.imglink }}">
-    <img src="/images/books/{{ page.imglink }}" alt="Weinberg on Writing: The Fieldstone Method">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
+    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Weinberg on Writing: The Fieldstone Method">
   </a>
 </div> 
 

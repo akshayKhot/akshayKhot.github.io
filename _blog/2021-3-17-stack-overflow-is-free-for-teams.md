@@ -6,8 +6,8 @@ title: Stack Overflow Is Free For Teams
 Earlier today, Stack Overflow [announced](https://stackoverflow.blog/2021/03/17/stack-overflow-for-teams-is-now-free-forever-for-up-to-50-users/) on their blog that their product for teams will be free, up to 50 users. Here's what that means.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/stackoverflow-teams-free.png">
-    <img src="/images/random/stackoverflow-teams-free.png" alt="Stack Overflow Is Free For Teams	">
+  <a target="_blank" href="{{site.photos}}/stackoverflow-teams-free.png">
+    <img src="{{site.photos}}/stackoverflow-teams-free.png" alt="Stack Overflow Is Free For Teams	">
   </a>
   <div class="caption">Stack Overflow for Teams</div>
 </div>

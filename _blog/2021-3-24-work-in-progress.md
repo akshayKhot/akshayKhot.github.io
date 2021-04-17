@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Work in Progress
-imglink: /images/random/pedestrians_busy.jpeg
 ---
 
 Feature requests, bug reports, support calls, and an onslaught of customer requests. **Is this what your typical day looks like?** You are reacting to other people's demands and needs, fighting battle after battle after battle. You spend the whole day on shallow, urgent tasks while losing track of important ones. **Could there be a better way?**
 
-[![Pedestrians - Blurred]({{ page.imglink }})]({{ page.imglink }}){:target="_blank"} 
-*Busy, Busy, Busy*{: .centered}
+<a target="_blank" href="{{ site.photos }}/pedestrians_busy.jpeg">
+  <img src="{{ site.photos }}/pedestrians_busy.jpeg" alt="Busy">
+</a>
 
 This post is for developers who are struggling to keep their work under control, unorganized at best and disorganized at worst in managing the requests from their managers, clients, or customers. Some have been in this overloaded state for so long they don't know there is any other way. 
 
@@ -20,8 +20,8 @@ The term **work in progress** comes from operations science. It describes custom
 In the world of software development, customer requests can come in the form of feature requests, questions from team members, new initiatives, product crashes or bug reports. They also include questions you get asked from your colleagues or customers about the products or the features you built. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/carpenter_tools.jpeg">
-    <img src="/images/random/carpenter_tools.jpeg" alt="Pedestrians - Blurred">
+  <a target="_blank" href="{{site.photos}}/carpenter_tools.jpeg">
+    <img src="{{site.photos}}/carpenter_tools.jpeg" alt="Pedestrians - Blurred">
   </a>
 </div>
 
@@ -42,8 +42,8 @@ Here is a screenshot of my Basecamp, where I track all the ongoing tasks that I 
 I start my workday by reviewing the other lists and deciding which tasks I will work on that day. Then I add those tasks to my daily plan list. As each task is resolved, I check-off the item. At the end of the workday, I have a clear idea of what progress I made that day.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/basecamp_work_in_progress.jpg">
-    <img src="/images/random/basecamp_work_in_progress.jpg" alt="Work in Progress - Basecamp">
+  <a target="_blank" href="{{site.photos}}/basecamp_work_in_progress.jpg">
+    <img src="{{site.photos}}/basecamp_work_in_progress.jpg" alt="Work in Progress - Basecamp">
   </a>
   <div class="caption">Work in Progress - Basecamp</div>
 </div>
@@ -51,8 +51,8 @@ I start my workday by reviewing the other lists and deciding which tasks I will 
 If I click one of the projects, Basecamp opens that list and shows all its tasks. Here's what that looks like. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/basecamp_list.jpg">
-    <img src="/images/random/basecamp_list.jpg" alt="Task Lists-Basecamp">
+  <a target="_blank" href="{{site.photos}}/basecamp_list.jpg">
+    <img src="{{site.photos}}/basecamp_list.jpg" alt="Task Lists-Basecamp">
   </a>
   <div class="caption">Task Lists- Basecamp</div>
 </div>
@@ -60,8 +60,8 @@ If I click one of the projects, Basecamp opens that list and shows all its tasks
 You may have noticed a tiny note icon next to the task. This icon indicates that there are some notes attached to this to-do item. To view these notes, click the task, which brings the following view. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/basecamp_task.jpg">
-    <img src="/images/random/basecamp_task.jpg" alt="Task in Basecamp">
+  <a target="_blank" href="{{site.photos}}/basecamp_task.jpg">
+    <img src="{{site.photos}}/basecamp_task.jpg" alt="Task in Basecamp">
   </a>
   <div class="caption">Task in Basecamp</div>
 </div>

@@ -8,8 +8,8 @@ imglink: six_easy_pieces.jpeg
 A really good introductory book to big ideas in Physics, by Richard Feynman. It is very approachable, and can be read by a high-school student as well as someone doing a PhD. He explains some really advanced concepts by relating them to everyday objects and events in life. The book literally changes the way you look at the world.
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/{{ page.imglink }}">
-    <img src="/images/books/{{ page.imglink }}" alt="Six Easy Pieces">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
+    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Six Easy Pieces">
   </a>
 </div>
 

@@ -1,10 +1,6 @@
 ---
 layout: post
 title: "How to Setup an Aurelia + TypeScript Single Page App on ASP.NET"
-img_code: /images/random/aspnet_vs_code.jpg
-img_home: /images/random/aspnet_home.jpg
-img_aurelia: /images/random/aspnet_aurelia.jpg
-img_app: /images/random/aspnet_app.jpg
 ---
 
 This article is for .NET developers who want to build a responsive and fast single-page application using the Aurelia framework. It explains how to set up a simple ASP.NET MVC project, add support for an Aurelia app, and use Webpack to watch, compile and bundle the TypeScript files into a single JavaScript file. 
@@ -82,10 +78,9 @@ Now that `dotnet` has created an ASP.NET MVC project for us, switch to the direc
 
 Once the project opens in VS Code, you should see the following structure. 
 
-[![ASP.NET]({{ page.img_code }})]({{ page.img_code }}){:target="_blank"}
-
-{: .caption}
-ASP.NET
+<a target="_blank" href="{{ site.photos }}/aspnet_vs_code.jpg">
+  <img src="{{ site.photos }}/aspnet_vs_code.jpg" alt="VS Code">
+</a>
 
 To run, type `dotnet run` command from the `Sandbox` directory. 
 
@@ -106,10 +101,9 @@ info: Microsoft.Hosting.Lifetime[0]
 
 To see the running app, navigate to [https://localhost:5001](#). You will be greeted with the ASP.NET home page.
 
-[![ASPNET Home Page]({{ page.img_home }})]({{ page.img_home }}){:target="_blank"} 
-
-{: .caption}
-ASP.NET Home Page
+<a target="_blank" href="{{ site.photos }}/aspnet_home.jpg">
+  <img src="{{ site.photos }}/aspnet_home.jpg" alt="Home Page">
+</a>
 
 Congratulations, you have successfully set up an ASP.NET web application. 
 
@@ -131,10 +125,9 @@ First, install node from the [node.js](https://nodejs.org/en/download/) website.
 
 Now your folder structure should look like this:
 
-[![Aurelia]({{ page.img_aurelia }})]({{ page.img_aurelia }}){:target="_blank"} 
-
-{: .caption}
-Aurelia
+<a target="_blank" href="{{ site.photos }}/aspnet_aurelia.jpg">
+  <img src="{{ site.photos }}/aspnet_aurelia.jpg" alt="Aurelia">
+</a>
 
 ### Add Aurelia to ASP.NET
 
@@ -185,10 +178,9 @@ Finally, start your ASP.NET server with the `dotnet run` command from the Sandbo
 Building...
 ```
 
-[![ASP.NET with Aurelia]({{ page.img_app }})]({{ page.img_app }}){:target="_blank"} 
-
-{: .caption}
-ASP.NET with Aurelia
+<a target="_blank" href="{{ site.photos }}/aspnet_app.jpg">
+  <img src="{{ site.photos }}/aspnet_app.jpg" alt="App">
+</a>
 
 To verify if Webpack is watching for code changes, make a simple modification in the `app/src/my-app.ts` file and reload the browser. 
 

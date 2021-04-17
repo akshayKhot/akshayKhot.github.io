@@ -8,8 +8,8 @@ imglink: philosophy_of_software_design.jpg
 People have been programming for more than 80 years, but there has been surprisingly little conversation about how to design those programs or what good programs should look like. Though much has been written on development processes and techniques like agile and object-oriented programming, but the core problem of software design is still not explored. 
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/{{ page.imglink }}">
-    <img src="/images/books/{{ page.imglink }}" alt="A Philosophy of Software Design">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
+    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="A Philosophy of Software Design">
   </a>
   <div class="caption">A Philosophy of Software Design</div>
 </div> 
@@ -101,8 +101,8 @@ While designing abstractions, understand what is really important for your users
 The best modules are those that provide powerful functionality yet have simple interfaces. Interfaces should be designed to make the common case as simple as possible.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/deep_modules.jpg">
-    <img src="/images/random/deep_modules.jpg" alt="Deep vs. Shallow Modules">
+  <a target="_blank" href="{{site.photos}}/deep_modules.jpg">
+    <img src="{{site.photos}}/deep_modules.jpg" alt="Deep vs. Shallow Modules">
   </a>
 </div>
 

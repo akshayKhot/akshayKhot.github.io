@@ -38,8 +38,8 @@ A web application consists of multiple separate layers. The typical example is a
 The following figure illustrates a typical Web application architecture with standard components grouped by different areas of concern.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/webapp.png">
-    <img src="/images/random/aspnet/webapp.png" alt="Web Application Architecture">
+  <a target="_blank" href="{{site.photos}}/aspnet/webapp.png">
+    <img src="{{site.photos}}/aspnet/webapp.png" alt="Web Application Architecture">
   </a>
   <div class="caption">Web Application Architecture</div>
 </div>
@@ -78,8 +78,8 @@ Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmit
 HTTP is a protocol that allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web, and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/http_protocol.png">
-    <img src="/images/random/aspnet/http_protocol.png" alt="HTTP Request Response Cycle">
+  <a target="_blank" href="{{site.photos}}/aspnet/http_protocol.png">
+    <img src="{{site.photos}}/aspnet/http_protocol.png" alt="HTTP Request Response Cycle">
   </a>
   <div class="caption">HTTP Request - Response Cycle</div>
 </div>
@@ -91,8 +91,8 @@ The term web server can refer to both hardware or software, working separately o
 On the hardware side, a web server is a computer with more processing power and memory that stores the application’s back-end code and static assets such as images and JavaScript, CSS, HTML files. This computer is connected to the internet and allows data flow between connected devices.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/web_server.jpg">
-    <img src="/images/random/aspnet/web_server.jpg" alt="Web Server">
+  <a target="_blank" href="{{site.photos}}/aspnet/web_server.jpg">
+    <img src="{{site.photos}}/aspnet/web_server.jpg" alt="Web Server">
   </a>
   <div class="caption">Web Server</div>
 </div>
@@ -106,8 +106,8 @@ Popular examples of web servers include Apache, Nginx, IIS.
 The Model-View-Controller (MVC) is an architectural pattern that separates an application into three main logical components: the **model**, the **view**, and the **controller**. It’s different to note that this pattern is unrelated to the layered pattern we saw earlier. MVC pattern operates on the software side, while the layered pattern dictates how and where we place our database and application servers. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/mvc.png">
-    <img src="/images/random/aspnet/mvc.png" alt="MVC Pattern">
+  <a target="_blank" href="{{site.photos}}/aspnet/mvc.png">
+    <img src="{{site.photos}}/aspnet/mvc.png" alt="MVC Pattern">
   </a>
   <div class="caption">MVC Pattern</div>
 </div>
@@ -286,8 +286,8 @@ Kestrel is an open-source, cross-platform web server designed for ASP.NET Core. 
 Kestrel can be used as a web server processing requests directly from a network, including the Internet.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/kestrel_web_server.png">
-    <img src="/images/random/aspnet/kestrel_web_server.png" alt="Kestrel as a Web Server">
+  <a target="_blank" href="{{site.photos}}/aspnet/kestrel_web_server.png">
+    <img src="{{site.photos}}/aspnet/kestrel_web_server.png" alt="Kestrel as a Web Server">
   </a>
   <div class="caption">Kestrel as Web Server</div>
 </div>
@@ -295,8 +295,8 @@ Kestrel can be used as a web server processing requests directly from a network,
 Though Kestrel can serve an ASP.NET Core application on its own, Microsoft recommends using it along with a reverse proxy such as IIS, Nginx, or Apache, for better performance, security, and reliability. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/kestrel_with_reverse_proxy.png">
-    <img src="/images/random/aspnet/kestrel_with_reverse_proxy.png" alt="Kestrel with Reverse Proxy">
+  <a target="_blank" href="{{site.photos}}/aspnet/kestrel_with_reverse_proxy.png">
+    <img src="{{site.photos}}/aspnet/kestrel_with_reverse_proxy.png" alt="Kestrel with Reverse Proxy">
   </a>
   <div class="caption">Kestrel with Reverse Proxy</div>
 </div>
@@ -320,8 +320,8 @@ Caching improves the scalability and performance of your application. It does th
 ASP.NET provides a set of caching features out of the box. You can use the IMemoryCache interface for simple use cases. It represents a cache stored in the web server’s memory. ASP.NET also supports distributed caching, which is a cache shared by multiple app servers, with Redis. 
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/how_caching_works.png">
-    <img src="/images/random/aspnet/how_caching_works.png" alt="How Caching Works">
+  <a target="_blank" href="{{site.photos}}/aspnet/how_caching_works.png">
+    <img src="{{site.photos}}/aspnet/how_caching_works.png" alt="How Caching Works">
   </a>
   <div class="caption">How Caching Works</div>
 </div>
@@ -467,8 +467,8 @@ For example, logging middleware logs when a request comes in and passes it to an
 In each of these examples, the middleware receives a request, modifies it, and then passes it to the next middleware piece in the pipeline. Subsequent middleware uses the details added by the earlier middleware to handle the request in some way. The following diagram illustrates this.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/aspnet/middleware.png">
-    <img src="/images/random/aspnet/middleware.png" alt="Middleware Pipeline">
+  <a target="_blank" href="{{site.photos}}/aspnet/middleware.png">
+    <img src="{{site.photos}}/aspnet/middleware.png" alt="Middleware Pipeline">
   </a>
   <div class="caption">Middleware Pipeline</div>
 </div>

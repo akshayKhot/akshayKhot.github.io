@@ -42,8 +42,8 @@ Let's wrap up with another quote from Stephen King.
 Simple as that. 
 
 <div class="book centered">
-  <a target="_blank" href="/images/books/on_writing.jpg">
-    <img src="/images/books/on_writing.jpg" alt="Stephen King">
+  <a target="_blank" href="{{site.bookshelf}}/on_writing.jpg">
+    <img src="{{site.bookshelf}}/on_writing.jpg" alt="Stephen King">
   </a>
   <div class="caption">Stephen King</div>
 </div>

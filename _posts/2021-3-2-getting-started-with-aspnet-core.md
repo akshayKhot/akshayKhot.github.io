@@ -6,11 +6,9 @@ tags: c-sharp aspnet
 
 In this article, we will look at how to get started with your first [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet) application. We will install the .NET framework, then use one of the generators to quickly get our application up and running in the browser. The whole process shouldn't take more than ten minutes. 
 
-<div class="random centered">
-  <a target="_blank" href="/images/random/aspnetcore_banner.jpg">
-    <img src="/images/random/aspnetcore_banner.jpg" alt="ASP.NET Core Banner">
-  </a>
-</div>
+<a target="_blank" href="{{ site.photos }}/aspnetcore_banner.jpg">
+  <img src="{{ site.photos }}/aspnetcore_banner.jpg" alt="ASP.NET Core Banner">
+</a>
 
 ASP.NET Core is a **cross-platform, high-performance, open-source** web application framework from Microsoft. It enables developers to build **modern, cloud-enabled** web applications. 
 
@@ -100,8 +98,8 @@ info: Microsoft.Hosting.Lifetime[0]
 To see your application in action, open a new browser window and go to [https://localhost:5001](https://localhost:5001/). You should see the default ASP.NET welcome page.
 
 <div class="random centered">
-  <a target="_blank" href="/images/random/welcome.png">
-    <img src="/images/random/welcome.png" alt="ASP.NET Core Welcome Page">
+  <a target="_blank" href="{{site.photos}}/welcome.png">
+    <img src="{{site.photos}}/welcome.png" alt="ASP.NET Core Welcome Page">
   </a>
   <div class="caption">Welcome Page</div>
 </div>

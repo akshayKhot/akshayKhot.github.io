@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: Write Software, Well
 
-paginate: 5
+paginate: 10
 
 collections:
   books:
@@ -44,6 +44,12 @@ url: https://akshaykhot.com
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# Image directory
+
+photos: "{{site.photos}}"
+bookshelf: "{{site.bookshelf}}"
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
