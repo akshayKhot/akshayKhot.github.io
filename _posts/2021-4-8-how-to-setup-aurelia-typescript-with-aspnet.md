@@ -78,8 +78,8 @@ Now that `dotnet` has created an ASP.NET MVC project for us, switch to the direc
 
 Once the project opens in VS Code, you should see the following structure. 
 
-<a target="_blank" href="{{ site.photos }}/aspnet_vs_code.jpg">
-  <img src="{{ site.photos }}/aspnet_vs_code.jpg" alt="VS Code">
+<a target="_blank" href="{{ site.photos }}/sandbox/aspnet_vs_code.jpg">
+  <img src="{{ site.photos }}/sandbox/aspnet_vs_code.jpg" alt="VS Code">
 </a>
 
 To run, type `dotnet run` command from the `Sandbox` directory. 
@@ -101,8 +101,8 @@ info: Microsoft.Hosting.Lifetime[0]
 
 To see the running app, navigate to [https://localhost:5001](#). You will be greeted with the ASP.NET home page.
 
-<a target="_blank" href="{{ site.photos }}/aspnet_home.jpg">
-  <img src="{{ site.photos }}/aspnet_home.jpg" alt="Home Page">
+<a target="_blank" href="{{ site.photos }}/sandbox/aspnet_home.jpg">
+  <img src="{{ site.photos }}/sandbox/aspnet_home.jpg" alt="Home Page">
 </a>
 
 Congratulations, you have successfully set up an ASP.NET web application. 
@@ -125,8 +125,8 @@ First, install node from the [node.js](https://nodejs.org/en/download/) website.
 
 Now your folder structure should look like this:
 
-<a target="_blank" href="{{ site.photos }}/aspnet_aurelia.jpg">
-  <img src="{{ site.photos }}/aspnet_aurelia.jpg" alt="Aurelia">
+<a target="_blank" href="{{ site.photos }}/sandbox/aspnet_aurelia.jpg">
+  <img src="{{ site.photos }}/sandbox/aspnet_aurelia.jpg" alt="Aurelia">
 </a>
 
 ### Add Aurelia to ASP.NET
@@ -178,8 +178,8 @@ Finally, start your ASP.NET server with the `dotnet run` command from the Sandbo
 Building...
 ```
 
-<a target="_blank" href="{{ site.photos }}/aspnet_app.jpg">
-  <img src="{{ site.photos }}/aspnet_app.jpg" alt="App">
+<a target="_blank" href="{{ site.photos }}/sandbox/aspnet_app.jpg">
+  <img src="{{ site.photos }}/sandbox/aspnet_app.jpg" alt="App">
 </a>
 
 To verify if Webpack is watching for code changes, make a simple modification in the `app/src/my-app.ts` file and reload the browser. 
