@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to remove an item from a JavaScript array
+title: How to Remove an Item from a JavaScript Array
 tags: javascript
 ---
 
