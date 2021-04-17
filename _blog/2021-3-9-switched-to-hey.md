@@ -7,8 +7,8 @@ tags: news personal
 I have finally made a switch to [Hey](https://hey.com) for email. From now on, you can send me an email to `akshay.khot@hey.com`.
 
 <div class="random centered">
-  <a target="_blank" href="{{site.photos}}/hey.jpg">
-    <img src="{{site.photos}}/hey.jpg" alt="Hey Email">
+  <a target="_blank" href="{{site.images}}/hey.jpg">
+    <img src="{{site.images}}/hey.jpg" alt="Hey Email">
   </a>
   <div class="caption">Hey</div>
 </div>

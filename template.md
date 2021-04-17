@@ -13,8 +13,8 @@ A classic text on problem-solving by Jerry Weinberg. The book is short, but pack
   </a>
 </div>  
 
-<a target="_blank" href="{{site.photos}}/">
-  <img src="{{site.photos}}/" alt="">
+<a target="_blank" href="{{site.images}}/">
+  <img src="{{site.images}}/" alt="">
 </a>
 <div class="caption"></div>
 

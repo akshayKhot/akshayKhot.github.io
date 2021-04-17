@@ -8,8 +8,8 @@ I have been working from home this week. Though I miss my awesome colleagues at 
 Here's a picture of my home office on this bright Victoria morning.
 
 <div class="random centered">
-  <a target="_blank" href="{{site.photos}}/home_office.jpeg">
-    <img src="{{site.photos}}/home_office.jpeg" alt="Home Office">
+  <a target="_blank" href="{{site.images}}/home_office.jpeg">
+    <img src="{{site.images}}/home_office.jpeg" alt="Home Office">
   </a>
   <div class="caption">Home Office</div>
 </div>

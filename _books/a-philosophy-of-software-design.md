@@ -101,8 +101,8 @@ While designing abstractions, understand what is really important for your users
 The best modules are those that provide powerful functionality yet have simple interfaces. Interfaces should be designed to make the common case as simple as possible.
 
 <div class="random centered">
-  <a target="_blank" href="{{site.photos}}/deep_modules.jpg">
-    <img src="{{site.photos}}/deep_modules.jpg" alt="Deep vs. Shallow Modules">
+  <a target="_blank" href="{{site.images}}/deep_modules.jpg">
+    <img src="{{site.images}}/deep_modules.jpg" alt="Deep vs. Shallow Modules">
   </a>
 </div>
 

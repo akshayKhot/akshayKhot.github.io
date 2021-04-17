@@ -10,6 +10,6 @@ As long as we call our mistakes bugs, it may give us the comforting feeling that
 
 It's time we stop sugar-coating our mistakes by calling them bugs and call them by what they are. Just mistakes.
 
-<a target="_blank" href="{{ site.photos }}/first_bug.jpg">
-  <img src="{{ site.photos }}/first_bug.jpg" alt="First Bug">
+<a target="_blank" href="{{ site.images }}/first_bug.jpg">
+  <img src="{{ site.images }}/first_bug.jpg" alt="First Bug">
 </a>

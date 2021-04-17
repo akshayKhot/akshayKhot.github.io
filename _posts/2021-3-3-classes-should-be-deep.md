@@ -20,8 +20,8 @@ In his book, [A Philosophy of Software Design](https://www.amazon.ca/Philosophy-
 **The implementation** consists of the code that carries out the promises made by the interface. In general, if a developer needs to know a particular piece of information in order to use a module, then that information is part of that module's interface.
 
 <div class="random centered">
-  <a target="_blank" href="{{site.photos}}/deep_modules.jpg">
-    <img src="{{site.photos}}/deep_modules.jpg" alt="Deep vs. Shallow Modules">
+  <a target="_blank" href="{{site.images}}/deep_modules.jpg">
+    <img src="{{site.images}}/deep_modules.jpg" alt="Deep vs. Shallow Modules">
   </a>
 </div>
 
