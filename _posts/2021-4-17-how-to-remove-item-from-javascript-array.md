@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to remove an item from a JavaScript array? 
+tags: javascript
 ---
 
 Though the question is simple, I have to look it up on [StackOverflow](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array) all the time. I could just copy-paste the answer, but that doesn't tell me what the code is doing or how it works. So here is a detailed explanation of the steps involved in removing one or more items from an array. 
