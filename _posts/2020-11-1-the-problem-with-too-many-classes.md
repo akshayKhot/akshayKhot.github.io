@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Problem With Too Many Clases
+title: The Problem With Too Many Classes
 tags: design development 
 ---
 
