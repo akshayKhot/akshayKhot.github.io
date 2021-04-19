@@ -16,7 +16,7 @@ I work for CityView, a municipal software company that is also one of Victoria's
 
 Before CityView, I did my Master's in Computer Science from the University of Victoria. My work involved designing & implementing a scalable algorithm to find the most influential users in a network. I published a short paper based on my thesis in EDBT Vienna 2018 (Microsoft Research). You can find a copy of my thesis [here](https://dspace.library.uvic.ca//handle/1828/8885).   
 
-I love [reading](/books). Mostly non-fiction. Occasionally, I post a summary of the books I read and found interesting on this blog. You can find my reading list for [2018](/books-I-read-in-2018), [2019](/books-I-read-in-2019), and [2020](/books-I-read-in-2020). Here is the list of books I am reading in [2021](https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN). 
+I love [reading](/books). Mostly non-fiction. Occasionally, I post a summary of the books I read and found interesting on this blog. You can find my reading list for [2018](/blog/books-I-read-in-2018), [2019](/blog/books-I-read-in-2019), and [2020](/blog/books-I-read-in-2020). Here is the list of books I am reading in [2021](https://public.3.basecamp.com/p/eyqQGbQ2ZqMEWRrmw6x19XGN). 
 
 To get in touch, you can send me an email (see below).
 
