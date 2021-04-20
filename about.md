@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<div class="about centered">
+<div class="about">
     <a href="/images/Akshay.jpg">
     <img src="/images/Akshay.jpg" alt="Akshay Khot">
     </a>

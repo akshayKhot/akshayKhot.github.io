@@ -4,7 +4,7 @@ title: Tags
 permalink: /tags/
 ---
 
-<section class="tags text-center">
+<section class="tags">
 
   {% for tag in site.tags %}
     <div id="{{ tag[0] }}" class="tag-container">

@@ -50,7 +50,7 @@ hr {
 }
 
 .container {
-  margin-top: 2em;
+  margin-top: 1em;
   margin-bottom: 2em;
   max-width: 800px;
   line-height: 1.9rem;
@@ -59,7 +59,7 @@ hr {
 
   background: #fff;
   box-sizing: border-box;
-  padding: 50px 100px;
+  padding: 30px 100px;
 
   @media screen and (max-width: 850px) {
 	  margin-top: 0;
@@ -83,12 +83,10 @@ hr {
 
   text-overflow: ellipsis;
   border-radius: 10px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 header {
-  text-align: center;
-  padding: 1.5em 0;
+  padding: 1em 0;
   border-bottom: 1px solid #eee !important;
 
   div.site-info {
@@ -133,7 +131,7 @@ main {
     margin-bottom: 2em;
 
     .post-title {
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-weight: bold;
       margin-top: 1em;
       a {
@@ -166,12 +164,10 @@ main {
       blockquote {
         p {
           margin: 0;
-          line-height: 1.6em;
         }
         border-left: 2px solid $gray;
-        padding: 1em;
-        font-size: 0.9em;
-        box-shadow: 0 5px 15px #eee;
+        padding: 1.3em;
+  		box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
       }
 
     li {
@@ -218,7 +214,6 @@ main {
 
   code {
     font-family:'Bitstream Vera Sans Mono', 'Courier', monospace;
-	color: #000 !important;
 	border-radius: 3px;
 	word-wrap: normal;
   }
@@ -288,10 +283,8 @@ footer {
 }
 
 section.tags {
-  margin: 1em;
-
   div.tag-container {
-	  margin-top: 1.5em;
+	  margin-top: 1em;
     div.tag-name {
 		margin: 0.5em 0;
       font-size: 1.3em;
@@ -332,7 +325,7 @@ section.blog {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "code/vs";
+@import "code/monokai";
 @import "svg-icons";
 
 div:target {
