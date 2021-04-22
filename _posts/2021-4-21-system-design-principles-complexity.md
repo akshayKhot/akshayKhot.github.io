@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Principles of Computer System Design: Complexity"
+tags: cs
 ---
 
 This article is a summary and a collection of my notes from the first chapter of Jerome H. Saltzer’s book [Principles of Computer System Design](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/). It introduces the concept of a system, the causes of complexity in systems, and a few ways to deal with the complexity.

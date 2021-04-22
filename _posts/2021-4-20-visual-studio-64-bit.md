@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finally, a 64-bit Visual Studio
+tags: news
 ---
 
 I was pleasantly surprised to read the announcement on the .NET blog that [Visual Studio 2022 will be 64-bit](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/).
