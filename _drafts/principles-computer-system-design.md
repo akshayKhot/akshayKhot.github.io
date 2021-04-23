@@ -18,8 +18,6 @@ It identifies and develops concepts and design principles that are common to sev
 
 Introduces three key methods of achieving and taking advantage of modularity in computer systems: abstraction, naming, and layers. It reviews the architecture and organization of computer systems in the light fo abstraction, naming, and layering. 
 
-
-
 Vast majority of computer system abstractions fall into one of three classes:
 
 1. Memory
@@ -52,9 +50,24 @@ Since physical memories are generally location-addressed, a designer creates an 
   <img src="{{ site.images }}/{{ page.img }}" alt="Associative Layer">
 </a>  
 
+### Interpreters
 
+These are the active elements of a computer system that perform computations. They can be described with a simple abstraction that consists of just three components:
 
+1. An *instruction reference*, which tells the interpreter where to find its next instruction.
+2. A *repertoire*, which defines the set of actions the interpreter is prepared to perform when it retrieves an instruction from the location named by the instruction reference.
+3. An *environment reference*, which tells the interpreter where to find its *environment*, the current state on which the interpreter should perform the action of the current instruction.
 
+**Processors**
+
+A general-purpose processor is an implementation of an interpreter. The program counter contains the address of the memory location that stores the next instruction of the current program. Here is a set of instructions that our processor includes:
+
+1. adding two numbers (ADD), 
+2. subtracting one number from another (SUB), 
+3. comparing two numbers (CMP), and 
+4. changing the program counter to the address of another instruction (JMP).
+5. read a value from memory into the register (LOAD)
+6. write the value from a register into memory (STORE)
 
 
 
