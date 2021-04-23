@@ -6,14 +6,14 @@ tags: enterprise
 
 Enterprise applications often have complex data—and lots of it—to work on, together with complex business rules. In his book the [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html), Martin Fowler provides a few traits that differentiate enterprise applications from other software systems.
 
-- **Persistent data.**
+- **Persistent Data.**
   - It needs to be around between multiple runs of the program—indeed, it usually needs to persist for several years.
   - It will often outlast the software and hardware that originally created much of it, and outlast operating systems and compilers.
   - There'll be many changes to the data structure to store new information without disturbing the old details.
   - Even if there's a fundamental change and the company installs an entirely new application to handle a job, one must migrate the data to the new application.
-- **Data is accessed concurrently**.
+- **Concurrent Access**
   - It depends on the organization's size, but typically many people access the data concurrently during a typical workday at the organization.
-- **Lots of user interface screens**
+- **Lots of UI screens**
   - It's not unusual to have hundreds of different screens.
   - One must present the data in lots of different ways for different purposes.
 - **Integrations with other enterprise applications**
