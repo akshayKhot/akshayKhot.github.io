@@ -16,6 +16,33 @@ The primary topics the book explores are
 
 > Choosing an architecture means that you have to understand the particular problems of your system and choose an appropriate design based on that understanding.
 
-
-
 [Characteristics of the enteprise applications.](/enterprise-applications/)
+
+[Layering](/layers)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
