@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overview of C# and .NET
-tags: csharp, dotnet, programming
+tags: csharp dotnet programming
 img: dotnet/overview.png
 ---
 
