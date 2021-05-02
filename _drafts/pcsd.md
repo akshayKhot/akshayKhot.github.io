@@ -27,7 +27,7 @@ Introduces the three fundamental abstractions.
 
 **Naming in Computer Systems**
 
-Presents a model for naming and explains how names are used in computer systems. 
+Presents a model for naming and explains how names are used in computer systems.
 
 **Using Layers**
 
