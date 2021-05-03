@@ -89,3 +89,19 @@ It's possible to have multiple generic parameters. The Dictionary class in the S
 ```csharp
 public class Dictionary<TKey, TValue>
 ```
+
+Finally, it's important to know what can be generic. For types, except enums, everything can be generic. That includes:
+
+- classes
+- structs
+- interfaces
+- delegates
+
+For type members, only methods and nested types can be generic. The following members can not be generic:
+
+- Fields
+- Properties
+- Indexers
+- Constructors
+- Events
+- Finalizers
