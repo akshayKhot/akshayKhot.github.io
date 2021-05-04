@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generics in C#
-tags: csharp
+tags: c-sharp
 ---
 
 Generics were added in version 2.0 of C# and are among the most important concepts in the language. They enable you to write reusable, high-performance code that is type-safe at compile time. Using generics, you can use a type in your code without knowing about it beforehand. This article provides an introduction to generics. 

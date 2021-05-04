@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parameter Passing in C#
-tags: csharp
+tags: c-sharp
 ---
 
 This article is a deep dive into parameter passing in C#. It shows how we always pass the variables by value. It also explains the **ref**, **out**, and **in** parameter modifiers which give us control over parameter passing.
