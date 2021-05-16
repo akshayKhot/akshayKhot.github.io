@@ -3,7 +3,7 @@ layout: post
 title: The Elements of Style
 date: 2021-3-4
 img: elements_of_style.jpg
----
+--- 
 
 This is the classic text on writing. It offers practicaly, highly useful advice on improving your writing skills. This book will help you communicate more effectively and in a simple, concise way. 
 
