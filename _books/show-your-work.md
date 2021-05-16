@@ -2,14 +2,14 @@
 layout: post
 title: Show Your Work
 date: 2020-7-19
-imglink: show_your_work.jpg
+img: show_your_work.jpg
 ---
 
 People are interested in how you work, if only you presented it to them in the right way. 
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Show Your Work">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="Show Your Work">
   </a>
 </div>
 

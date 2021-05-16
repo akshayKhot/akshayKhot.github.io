@@ -2,7 +2,7 @@
 layout: post
 title: How to Write a Good Advertisement
 date: 2021-3-24
-imglink: 
+img: 
 ---
 
 The basic purpose of advertising is to make people buy a product or a service.

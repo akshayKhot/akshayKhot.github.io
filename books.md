@@ -20,7 +20,7 @@ permalink: /books/
     
     <div class="book">
       <a target="_blank" href="{{ site.baseurl }}{{ book.url }}">
-        <img src="{{site.bookshelf}}/{{ book.imglink }}" alt="{{ book.title }}">
+        <img src="{{site.bookshelf}}/{{ book.img }}" alt="{{ book.title }}">
       </a>
     </div> 
         

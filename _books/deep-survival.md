@@ -2,14 +2,14 @@
 layout: post
 title: Deep Survival
 date: 2021-2-12
-imglink: deep_survival.jpg
+img: deep_survival.jpg
 ---
 
 Deep Survival is less about outdoor survival and more about life. Its lessons go far beyond the wilderness and help you not only survive, but thrive with the challenges that life throws at you. Really well-written book. A must read. Here are my highlights.
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Deep Survival">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="Deep Survival">
   </a>
 </div>
 

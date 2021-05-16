@@ -2,14 +2,14 @@
 layout: post
 title: The Elements of Style
 date: 2021-3-4
-imglink: elements_of_style.jpg
+img: elements_of_style.jpg
 ---
 
 This is the classic text on writing. It offers practicaly, highly useful advice on improving your writing skills. This book will help you communicate more effectively and in a simple, concise way. 
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="The Elements of Style">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="The Elements of Style">
   </a>
 </div>  
 

@@ -2,14 +2,14 @@
 layout: post
 title: Smalltalk Best Practice Patterns
 date: 2021-3-21
-imglink: smalltalk.jpg
+img: smalltalk.jpg
 ---
 
 This book is about the simple things experienced, successful developers do that beginners don't. It is a style guide, in a sense, teaching you how to communicate most clearly through your code. This book is for developers who want to program and want to do so as quickly, safely, and effectively as possible. 
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Smalltalk Best Practice Patterns">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="Smalltalk Best Practice Patterns">
   </a>
 </div>  
 **Best Practice**: Set of procedures and skills that professionals recognize and use. 

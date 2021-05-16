@@ -2,14 +2,14 @@
 layout: post
 title: On The Shortness of Life
 date: 2020-5-16
-imglink: shortness_of_life.jpg
+img: shortness_of_life.jpg
 ---
 
 One of the classic Stoic texts that has stood the tests of time for over two thousand years.
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="On The Shortness of Life">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="On The Shortness of Life">
   </a>
 </div> 
 

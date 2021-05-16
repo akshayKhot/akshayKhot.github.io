@@ -2,14 +2,14 @@
 layout: post
 title: Shape Up
 date: 2021-4-16
-imglink: shape_up.png
+img: shape_up.png
 ---
 
 I have always admired [Basecamp](https://basecamp.com/) and their work process. Finally, they got it all down on a book. Written by Ryan Singer, the book explores the best practices and patterns that the fine folks at Basecamp use to deliver us amazing product like [Basecamp](https://basecamp.com/) and [Hey](https://hey.com/). 
 
 <div class="book">
-  <a target="_blank" href="{{site.bookshelf}}/{{ page.imglink }}">
-    <img src="{{site.bookshelf}}/{{ page.imglink }}" alt="Shape Up">
+  <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="Shape Up">
   </a>
 </div>
 **What is the Problem?**
