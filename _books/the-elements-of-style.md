@@ -7,7 +7,7 @@ img: elements_of_style.jpg
 
 This is the classic text on writing. It offers practicaly, highly useful advice on improving your writing skills. This book will help you communicate more effectively and in a simple, concise way. 
 
-<div class="book">
+<div class="book"> 
   <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
     <img src="{{site.bookshelf}}/{{ page.img }}" alt="The Elements of Style">
   </a>
