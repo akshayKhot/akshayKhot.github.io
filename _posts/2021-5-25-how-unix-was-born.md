@@ -3,7 +3,9 @@ layout: post
 title: How Unix was Born
 ---
 
-The following is an excerpt from the book UNIX: A History and a Memoir by Brian Kernighan, which I am reading now. It details the fascinating history of how the Unix operating system was born.
+The following is an excerpt from the book UNIX: A History and a Memoir by Brian Kernighan, which I am reading now. It details the fascinating history of how the Unix operating system was created.
+
+---
 
 **CTSS** was the most innovative OP of the time, allowing users to type on terminals connected to a big IBM machine (7094), instead of punch cards. It was more pleasant and productive than batch processing.
 
@@ -13,7 +15,7 @@ Multics was complicated, and needed new software and hardware than IBM 7094, so 
 
 Because it was so ambitious, Multics soon ran into problems. It was a victim of the **second system effect**. It was over-engineered, and was described as "an attempt to climb too many trees at once." Coordinating two companies and a university spread across the country was difficult. 
 
-> Second system effect: After a success, it's tempting to try to creates a new system that fixes all the remaining problems with the original while adding everybody's favorite new features. The result is often a system that's too complicated, a consequence of taking on too many different things at the same time. 
+> **Second system effect:** After a success, it's tempting to try to creates a new system that fixes all the remaining problems with the original while adding everybody's favorite new features. The result is often a system that's too complicated, a consequence of taking on too many different things at the same time. 
 
 Bell Labs worked on Multics from 1966 through 1969. By 1968, it realized that it was not going to achieve its goal of providing computing services at a reasonable cost. It was too expensive. Bell Labs dropped out of the project in April 1969 (MIT and GE worked on it and Multics was eventually completed and used until 2000, though not widely).
 
