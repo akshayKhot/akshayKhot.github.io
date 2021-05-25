@@ -5,7 +5,7 @@ date: 2021-2-11
 img: rework.png
 ---
 
-Rework redefines how to start and stay in a business. It is full of contrarian ideas, such as staying small is good for you and your business. I have read this book multiple times over the last decade. Every time I read it, I learn something new. A must-read, especially if you are thinking of starting a business. 
+Rework redefines how to start and stay in a business. It is full of contrarian ideas, such as staying small is good for you and your business. I have read this book multiple times over the last decade. Every time I read it, I learn something new. The advice doesn't only apply to the founders but also employees and management. A must read. 
 
 <div class="book">
 <a target="_blank" href="{{ site.bookshelf }}/{{ page.img }}">
