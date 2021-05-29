@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <div class="about">
-    <a href="/images/Akshay.jpg">
-    <img src="/images/Akshay.jpg" alt="Akshay Khot">
+    <a href="/images/Akshay.jpeg">
+    <img src="/images/Akshay.jpeg" alt="Akshay Khot">
     </a>
 </div>
 
