@@ -52,7 +52,7 @@ When you finish building the reports, you deploy or publish the report on a repo
 4. Renderers
    - After the data has been collected, the **report processor** processes the report layout. 
    - According to the format mentioned (HTML, PDF, etc.) the report processor selects the **renderer** that knows how to produce that format. 
-   - The rendered combines the report layout with the dataset and outputs the requested output format. 
+   - The renderer combines the report layout with the dataset and outputs the requested output format. 
 5. Request Handler
    - Receives the requests for reports and passes those requests to the report processor. 
    - Once the **report processor** has created the requested report using the data provider and renderer, the **request handler** delivers the report. 
