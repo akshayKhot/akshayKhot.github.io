@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Unix was Born
+title: The Unix Story
 ---
 
 The following is an excerpt from the book UNIX: A History and a Memoir by Brian Kernighan, which I am reading now. It details the fascinating history of how the Unix operating system was created.
