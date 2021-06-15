@@ -7,7 +7,7 @@ d_comp: design_patterns/dynamic_composition.png
 tmp: design_patterns/template_method.png
 ---
 
-I started a read of Russ Olseon's excellent [Design Patterns in Ruby](https://learning.oreilly.com/library/view/design-patterns-in/9780321490452/) and so far it's been a smooth ride. Since Ruby is such a readable and simple langugage, understanding the patterns boils down to their core, without getting bogged down in the complexities of a language like Java. I am definitely having a better time reading this book, rather than the original [gang-of-four](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/) tome. Here are the big ideas.
+This morning, I started a read of Russ Olson's excellent [Design Patterns in Ruby](https://learning.oreilly.com/library/view/design-patterns-in/9780321490452/). Since Ruby is such a readable and simple langugage, understanding the design patterns boils down to their core, without getting bogged down in the complexities of a language like Java. I am definitely having a better time reading this book, rather than the original [gang-of-four](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/) tome. 
 
 **Separate out the things that change from those that stay the same.**
 
