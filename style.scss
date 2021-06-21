@@ -320,6 +320,17 @@ section.books {
 section.blog {
 }
 
+table,
+th,
+td {
+	border: 1px solid #ddd;
+	padding: 5px 10px;
+}
+
+th {
+	text-align: center;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "code/monokai";
