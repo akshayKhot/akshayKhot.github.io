@@ -186,6 +186,52 @@ Eliminating pass-through variables can be challenging. One approach is to see if
 
 Another approach is to use global variabels. This elimiates the need to pass the information from method to method, but global variables almost always create other problems. For example, global variables make it impossible to create two independent instances of the same system in the same process, since accesses to the global variables will conflict.
 
+---
+
+**Pull Complexity Downwards**
+
+As a module developer, you should strive to make life as easy as possible for the users of your module, even if that means extra work for you. Another way of expressing this idea is that it is more important for a module to have a simple interface than a simple implementation.
+
+When designing methods, the most important goal is to provide clean and simple abstractions. 
+
+1. Each method should do one thing and do it completely. 
+2. The method should have a clean and simple interface, so that users don’t need to have much information in their heads in order to use it correctly. 
+3. The method should be deep: its interface should be much simpler than its implementation. 
+
+If a method has all of these properties, then it probably doesn’t matter whether it is long or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
