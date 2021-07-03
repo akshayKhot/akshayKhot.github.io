@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Useful Rails Commands
+tags: rails
 ---
 
 As I am learning Ruby on Rails, I find myself searching for a few commands over and over. Here are some of the essential ones. 
