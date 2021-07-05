@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Difference Between nil, empty, and blank
+title: Difference Between nil, empty, and blank in Ruby
 ---
 
 In ruby, you can use the `nil?` method on an instance to check if it's `nil`. However, ruby also provides `empty?` and there's a `blank?` method in Rails. For a new ruby programmer, it can get quite confusing. This post tries to explain which method to use when.
