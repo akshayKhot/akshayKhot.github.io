@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Difference Between nil, empty, and blank in Ruby
+tags: ruby
 ---
 
 In ruby, you can use the `nil?` method on an instance to check if it's `nil`. However, ruby also provides `empty?` and there's a `blank?` method in Rails. For a new ruby programmer, it can get quite confusing. This post tries to explain which method to use when.
 
 `nil?`
-   
+
    As expected, you can use `nil?` to check if an object is nil. 
-   
+
 ```ruby
 irb(main):001:0> nilObject = nil
 => nil
@@ -19,7 +20,7 @@ irb(main):003:0> data = Hash.new
 irb(main):004:0> data.nil?
 => false
 ```
-   
+
 `empty?`
 
    You can use this method on strings, arrays, and hashes. It returns true in the following cases:
@@ -50,7 +51,7 @@ Traceback (most recent call last):
         1: from (irb):12:in `<main>'
 NoMethodError (undefined method `empty?' for nil:NilClass)
 ```
-   
+
 `blank?`
 
    This is a nice syntactic sugar implemented in Rails. An object is blank if it's nil, false, empty. For example, `nil`,`false`, `''`, `[]`, `{}`are all blank. 
