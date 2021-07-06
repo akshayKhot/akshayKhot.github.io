@@ -4,9 +4,9 @@ title: Setters and Getters in Ruby
 tags: Ruby
 ---
 
-Each class needs a two methods for its properties, one to get the value and another to set the value. Different programming languages have different mechanisms that let you accomplish this. For example, in Java you have to write set and get methods, C# provides auto-implemented properties. Let's see how you can do this in Ruby. 
+Each class needs a two methods for its properties, one to get the value and another to set the value. Different programming languages have different mechanisms that let you accomplish this. For example, Java has setters and getters, and C# has auto-implemented properties. Let's see how you can do this in Ruby. 
 
-Let's say you have a class named `Business`, which has a property named `founder`
+Let's say you have a class named `Company` with two properties for its `name` and `founder`. You can create the class as follows.
 
 ```ruby
 class Company
