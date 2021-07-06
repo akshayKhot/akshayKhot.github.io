@@ -4,7 +4,7 @@ title: Calling Shell Commands From Ruby
 tags: ruby
 ---
 
-Here're a few different ways to run shell commands from Ruby.
+Frequently we want to run shell commands or interact with the operating system from the programming language. Here're a few different ways to run shell commands from Ruby. Which one do you prefer?
 
 `command` (backticks)
 

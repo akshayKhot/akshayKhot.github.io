@@ -3,13 +3,13 @@ layout: post
 title: The Elements of Style
 date: 2021-3-4
 img: elements_of_style.jpg
---- 
+---
 
 This is the classic text on writing. It offers practicaly, highly useful advice on improving your writing skills. This book will help you communicate more effectively and in a simple, concise way. 
 
 <div class="book"> 
   <a target="_blank" href="{{site.bookshelf}}/{{ page.img }}">
-    <img src="{{site.bookshelf}}/{{ page.img }}" alt="The Elements of Style">
+    <img src="{{site.bookshelf}}/{{ page.img }}" alt="{{page.title}}">
   </a>
 </div>  
 
@@ -89,8 +89,6 @@ In presenting the statements or the thought of someone else, as in summarizing a
 **Word Positions**
 
 The proper place in the sentence for the word or group of words that the writer desires to make most prominent is usually the end. This applies equally to the words of a sentence, to the sentences of a paragraph, and to the paragraphs of a composition.
-
----
 
 **A Few Matters of Form**
 
