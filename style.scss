@@ -8,7 +8,7 @@
 @import "variables";
 
 body {
-	background-color: #ffffff;
+	background-color: azure;
 }
 
 img {
@@ -59,25 +59,25 @@ hr {
 
   background: #fff;
   box-sizing: border-box;
-  padding: 10px 10px;
+  padding: 0px 0px;
 
   @media screen and (max-width: 850px) {
-	  margin-top: 0;
+	  margin: 0;
     padding: 50px 60px;
   }
 
   @media screen and (max-width: 650px) {
-	  margin-top: 0;
+	  margin: 0;
     padding: 30px 40px;
   }
 
   @media screen and (max-width: 450px) {
-	  margin-top: 0;
+	  margin: 0;
     padding: 20px;
   }
 
   @media screen and (max-width: 349px) {
-	  margin-top: 0;
+	  margin: 0;
     padding: 7px;
   }
 
@@ -121,7 +121,6 @@ header {
 }
 
 main {
-	border: 1px solid #eee;
   padding: 1em;
   a {
     color: $link-color;
