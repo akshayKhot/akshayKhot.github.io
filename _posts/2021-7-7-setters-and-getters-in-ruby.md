@@ -50,14 +50,14 @@ microsoft = Company.new("Microsoft", "Bill Gates")
 puts "#{microsoft.name} - founded by #{microsoft.founder}"
 ```
 
-This takes care of reading the value of the properties. What if you want to change the name of the company, or the founder? The following code doesn't work. Ruby is complaining that our class is missing a method named `founder=`.
+This takes care of reading the value of the properties. What if you want to change the name of the company, or the founder? The following code doesn't work. 
 
 ```ruby
 # undefined method `founder=' for #<Company:...> (NoMethodError)
 microsoft.founder = "Satya Nadella"
 ```
 
-Let's add the missing methods for `name` and  `founder`. 
+Ruby is complaining that our class is missing a method named `founder=`. Let's add the missing setter methods for `name` and  `founder`. 
 
 ```ruby
 class Company
