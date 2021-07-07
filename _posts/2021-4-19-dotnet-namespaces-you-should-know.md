@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20 C# Namespaces You Use 80% Time
-tags: dotnet, c-sharp
+tags: dotnet c-sharp
 ---
 
 .NET contains a lot of namespaces and many more, if you include the third-party libraries. However, there are a few that you will use over and over. Here are the twenty that will get you through 80% of the common, recurring programming problems. 
