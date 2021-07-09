@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby Standard Library: Abbrev"
-tags: Ruby
+tags: ruby
 ---
 
 This post explores the `Abbrev` module that ships with the Ruby standard library. We take a look at what this module does and how it works. Then we take a look behind the hood and see how it's implemented. 
