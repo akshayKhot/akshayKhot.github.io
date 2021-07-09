@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby Stdlib: Abbrev"
+title: Abbreviations in Ruby
 tags: Ruby
 ---
 
