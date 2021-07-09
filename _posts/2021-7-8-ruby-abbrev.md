@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Abbreviations in Ruby
+title: "Ruby Standard Library: Abbrev"
 tags: Ruby
 ---
 
-This post explains the Abbrev module that ships with the Ruby standard library. We take a look at what this module does and how it works. Then we take a look behind the hood and see how it's implemented. 
+This post explores the `Abbrev`module that ships with the Ruby standard library. We take a look at what this module does and how it works. Then we take a look behind the hood and see how it's implemented. 
 
 **What is Abbrev?**
 
@@ -32,9 +32,9 @@ irb(main):003:0> %w(ruby rust).abbrev
 
 **When do I use it?**
 
-You might wonder, like I did on first coming across this module, what's a good use case where I'd need to use it? Let's say your program has a set of commands. But for better usability, you also want to allow the users of your program to type as few keys as possible to get their task done. 
+Let's say your program has a set of commands. But you also want to allow the users of your program to type as few keys as possible when entering the commands. For example, to execute a `generate` command, the users could type `gen` or even `g`, and your program should work as expected. 
 
-For example, to execute a `generate` command, the users could type `gen` or even `g`, and your program should work as expected. However, let's say you have a `generic` command, then you shouldn't allow the users to type `gen`, as that would be ambiguous. In this case, use the `Abbrev` module to get the non-conflicting abbreviations for your commands. 
+However, let's say you have a `generic` command, then you shouldn't allow the users to type `gen`, as that would be ambiguous. In this case, use the `Abbrev` module to get the non-conflicting abbreviations for your commands. 
 
 Here is a code example from the book **Programming Ruby** that demonstrates this feature. 
 
@@ -109,3 +109,4 @@ module Abbr
 end
 ```
 
+Hope this helps. 
