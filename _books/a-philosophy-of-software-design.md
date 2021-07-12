@@ -200,15 +200,15 @@ When designing methods, the most important goal is to provide clean and simple a
 
 If a method has all of these properties, then it probably doesn’t matter whether it is long or not.
 
+> Pick the data structure that results in the best information hiding, the fewest dependencies, and the deepest interfaces. 
 
+---
 
+**Define Errors Out of Existence**
 
+Exception is any uncommon condition that alters the normal flow of control in a program. 
 
-
-
-
-
-
+Reduce the number of places where exceptions must be handled. Modify the semantics of operations so that the normal behavior handles all situations and there is no exceptional condition to report.  
 
 
 
