@@ -4,7 +4,7 @@ title: "Hash: fetch vs. []"
 tags: ruby
 ---
 
-While reading the source code for one of the Ruby standard library modules, I came across the `fetch` method on a Ruby Hash. Having used only the `[]` syntax so far, I was interested in learning why Ruby provides this alternate method that apparently does the same thing. Here's a brief explanation of the `Hash#fetch` method and when you should use it instead of the `[]`. 
+While reading the source code for a module in the Ruby standard library, I came across the `fetch` method on a Ruby Hash. Having used only the `[]` syntax so far, I was interested in learning why Ruby provides this alternate method that apparently does the same thing. Here's a brief explanation of the `Hash#fetch` method and when you should use it instead of the `[]`. 
 
 From the [docs](https://ruby-doc.org/core-3.0.1/Hash.html#method-i-fetch), the `fetch` method returns the value for the given key, if found. Otherwise, it returns a `KeyError`. 
 
