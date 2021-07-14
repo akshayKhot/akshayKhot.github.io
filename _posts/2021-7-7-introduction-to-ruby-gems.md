@@ -5,7 +5,7 @@ tags: ruby
 img: rubygems_server.png
 ---
 
-This is the first post in a series of posts on ruby gems. It explains what  ruby gems are and various commands you can use the interact with gems. 
+While learning Ruby, I came across gems, which are similar to packages in Node. I spent the day exploring how to work with them. This post explains what ruby gems are and various commands you can use the interact with them. 
 
 **What is a ruby gem?**
 
@@ -15,7 +15,7 @@ A gem is a software package containing ruby application or library. Gems give yo
 
 RubyGems is a package manager for ruby, providing a standard format for distributing ruby gems. It makes it easy to locate, install, upgrade, and uninstall gems. You can use the `gem` command that ships with ruby to use RubyGems. 
 
-Before RubyGems, if you wanted to install a new library, you had to search the Web, down- loading a package, and attempt to install it—only to find that you had to install its dependencies, too. 
+Before RubyGems, if you wanted to install a new library, you had to search the Web, download a package, and attempt to install it—only to find that you had to install its dependencies, too. 
 
 Using RubyGems, you can bundle your code into single files called *gems*. These files conform to a standardized format and typically are stored in repositories on the Internet (but you can also create your own repositories if you want). RubyGems can also install utility programs that you can invoke from the command line.
 
