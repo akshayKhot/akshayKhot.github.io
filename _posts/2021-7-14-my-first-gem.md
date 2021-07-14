@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I published my first Ruby Gem!
+title: I Published My First Ruby Gem!
 tags: ruby
 ---
 
